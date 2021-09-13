@@ -1,1300 +1,0 @@
-Company,Ticker,Earning Time,Earning Score,Starting Week,Earning Date,Market Time
-Macy's,M,Tue before market,+29,2021-02-22,2021-02-23,PREMARKET
-IHG Hotels,IHG,Tue before market,+20,2021-02-22,2021-02-23,PREMARKET
-Home Depot,HD,Tue before market,-7,2021-02-22,2021-02-23,PREMARKET
-Crocs,CROX,Tue before market,-34,2021-02-22,2021-02-23,PREMARKET
-Arlo Technologies,ARLO,Tue after market,+36,2021-02-22,2021-02-23,AFH
-Square,SQ,Tue after market,+32,2021-02-22,2021-02-23,AFH
-Intuit,INTU,Tue after market,+13,2021-02-22,2021-02-23,AFH
-TJX,TJX,Wed before market,-10,2021-02-22,2021-02-24,PREMARKET
-Puma,PMMAF,Wed before market,-11,2021-02-22,2021-02-24,PREMARKET
-Lowe's,LOW,Wed before market,-12,2021-02-22,2021-02-24,PREMARKET
-Revolve,RVLV,Wed after market,+81,2021-02-22,2021-02-24,AFH
-Priceline,BKNG,Wed after market,+25,2021-02-22,2021-02-24,AFH
-Best Buy,BBY,Thu before market,+24,2021-02-22,2021-02-25,PREMARKET
-Nvidia,NVDA,Wed after market,+17,2021-02-22,2021-02-24,AFH
-Papa John's,PZZA,Thu before market,+7,2021-02-22,2021-02-25,PREMARKET
-Hostess,TWNK,Wed after market,+1,2021-02-22,2021-02-24,AFH
-AB Inbev,BUD,Thu before market,-3,2021-02-22,2021-02-25,PREMARKET
-Keurig Dr Pepper,KDP,Thu before market,-8,2021-02-22,2021-02-25,PREMARKET
-Domino's,DPZ,Thu before market,-17,2021-02-22,2021-02-25,PREMARKET
-L Brands,LB,Wed after market,-21,2021-02-22,2021-02-24,AFH
-Smuckers,SJM,Thu before market,-47,2021-02-22,2021-02-25,PREMARKET
-Wayfair,W,Thu before market,-58,2021-02-22,2021-02-25,PREMARKET
-Churchill Downs,CHDN,Wed after market,-80,2021-02-22,2021-02-24,AFH
-Carvana,CVNA,Thu after market,+14,2021-02-22,2021-02-25,AFH
-Monster,MNST,Thu after market,+10,2021-02-22,2021-02-25,AFH
-Salesforce,CRM,Thu after market,+8,2021-02-22,2021-02-25,AFH
-Shake Shack,SHAK,Thu after market,-8,2021-02-22,2021-02-25,AFH
-Etsy,ETSY,Thu after market,-13,2021-02-22,2021-02-25,AFH
-Sprouts,SFM,Thu after market,-28,2021-02-22,2021-02-25,AFH
-Beyond Meat,BYND,Thu after market,-33,2021-02-22,2021-02-25,AFH
-Autodesk,ADSK,Thu after market,-34,2021-02-22,2021-02-25,AFH
-Weight Watchers,WW,Thu after market,-39,2021-02-22,2021-02-25,AFH
-Footlocker,FL,Fri before market,-60,2021-02-22,2021-02-26,PREMARKET
-Farfetch,FTCH,Thu after market,-81,2021-02-22,2021-02-25,AFH
-5/3 Bank,FITB,"Wed beforemarket",-57,2020-01-20,2020-01-22,PREMARKET
-IBM,IBM,"Tue aftermarket",-39,2020-01-20,2020-01-21,AFH
-Netflix,NFLX,"Tue aftermarket",-21,2020-01-20,2020-01-21,AFH
-United Air,UAL,"Tue aftermarket",+31,2020-01-20,2020-01-21,AFH
-American Airlines,AAL,"Thu beforemarket",-37,2020-01-20,2020-01-23,PREMARKET
-Citrix,CTXS,"Wed aftermarket",-11,2020-01-20,2020-01-22,AFH
-JetBlue,JBLU,"Thu beforemarket",-8,2020-01-20,2020-01-23,PREMARKET
-Kimberly-Clark,KMB,"Thu beforemarket",-4,2020-01-20,2020-01-23,PREMARKET
-Southwest,LUV,"Thu beforemarket",-17,2020-01-20,2020-01-23,PREMARKET
-AMEX,AXP,"Fri beforemarket",-6,2020-01-20,2020-01-24,PREMARKET
-Discover,DFS,"Thu aftermarket",-24,2020-01-20,2020-01-23,AFH
-Designer Brands,DBI,Tue before market,-51,2021-03-15,2021-03-16,PREMARKET
-Kodak,KODK,Tue after market,+65,2021-03-15,2021-03-16,AFH
-Lands End,LE,Wed before market,+17,2021-03-15,2021-03-17,PREMARKET
-Dollar General,DG,Thu before market,-1,2021-03-15,2021-03-18,PREMARKET
-Five Below,FIVE,Wed after market,-32,2021-03-15,2021-03-17,AFH
-FedEx,FDX,Thu after market,+34,2021-03-15,2021-03-18,AFH
-Nike,NKE,Thu after market,-9,2021-03-15,2021-03-18,AFH
-Ollie's,OLLI,Thu after market,-33,2021-03-15,2021-03-18,AFH
-Citigroup,C,"Tue beforemarket",+33,2020-01-13,2020-01-14,PREMARKET
-Delta,DAL,"Tue beforemarket",-12,2020-01-13,2020-01-14,PREMARKET
-U.S. Bank,USB,"Wed beforemarket",+44,2020-01-13,2020-01-15,PREMARKET
-Polaris,PII,Tue before market,+71,2021-01-25,2021-01-26,PREMARKET
-Alaska Air,ALK,Tue before market,-10,2021-01-25,2021-01-26,PREMARKET
-AMEX,AXP,Tue before market,-19,2021-01-25,2021-01-26,PREMARKET
-Boot Barn,BOOT,Mon after market,-26,2021-01-25,2021-01-25,AFH
-Xerox,XRX,Tue before market,-29,2021-01-25,2021-01-26,PREMARKET
-Hawaiian Holdings,HA,Tue after market,+14,2021-01-25,2021-01-26,AFH
-Anthem,ANTM,Wed before market,+10,2021-01-25,2021-01-27,PREMARKET
-Starbucks,SBUX,Tue after market,+5,2021-01-25,2021-01-26,AFH
-Brinker,EAT,Wed before market,-18,2021-01-25,2021-01-27,PREMARKET
-Sherwin-Williams,SHW,Thu before market,+63,2021-01-25,2021-01-28,PREMARKET
-Altria,MO,Thu before market,+22,2021-01-25,2021-01-28,PREMARKET
-McDonalds,MCD,Thu before market,+6,2021-01-25,2021-01-28,PREMARKET
-Facebook,FB,Wed after market,+2,2021-01-25,2021-01-27,AFH
-Whirlpool,WHR,Wed after market,-2,2021-01-25,2021-01-27,AFH
-Canon,CAJ,Thu before market,-6,2021-01-25,2021-01-28,PREMARKET
-JetBlue,JBLU,Thu before market,-7,2021-01-25,2021-01-28,PREMARKET
-Apple,AAPL,Wed after market,-9,2021-01-25,2021-01-27,AFH
-Southwest,LUV,Thu before market,-23,2021-01-25,2021-01-28,PREMARKET
-American Airlines,AAL,Thu before market,-35,2021-01-25,2021-01-28,PREMARKET
-Tesla,TSLA,Wed after market,-35,2021-01-25,2021-01-27,AFH
-Black & Decker,SWK,Thu before market,-52,2021-01-25,2021-01-28,PREMARKET
-McCormick,MKC,Thu before market,-61,2021-01-25,2021-01-28,PREMARKET
-Ethan Allen,ETH,Thu after market,+49,2021-01-25,2021-01-28,AFH
-Chevron,CVX,Fri before market,+34,2021-01-25,2021-01-29,PREMARKET
-Phillips 66,PSX,Fri before market,+13,2021-01-25,2021-01-29,PREMARKET
-Visa,V,Thu after market,+7,2021-01-25,2021-01-28,AFH
-Church & Dwight,CHD,Fri before market,-23,2021-01-25,2021-01-29,PREMARKET
-Principal Financial,PFG,Thu after market,-60,2021-01-25,2021-01-28,AFH
-Sirius XM,SIRI,"Tue beforemarket",+6,2020-02-03,2020-02-04,PREMARKET
-Pandora Jewelry,PANDY,"Tue beforemarket",-8,2020-02-03,2020-02-04,PREMARKET
-Royal Caribbean,RCL,"Tue beforemarket",-8,2020-02-03,2020-02-04,PREMARKET
-Polo,RL,"Tue beforemarket",-10,2020-02-03,2020-02-04,PREMARKET
-Clorox,CLX,"Tue beforemarket",-18,2020-02-03,2020-02-04,PREMARKET
-Spotify,SPOT,"Wed beforemarket",+63,2020-02-03,2020-02-05,PREMARKET
-Tuesday Morning,TUES,"Wed beforemarket",+51,2020-02-03,2020-02-05,PREMARKET
-Ford,F,"Tue aftermarket",+47,2020-02-03,2020-02-04,AFH
-AFLAC,AFL,"Tue aftermarket",+44,2020-02-03,2020-02-04,AFH
-Allstate,ALL,"Tue aftermarket",+37,2020-02-03,2020-02-04,AFH
-Ethan Allen,ETH,"Tue aftermarket",+37,2020-02-03,2020-02-04,AFH
-Boot Barn,BOOT,"Tue aftermarket",+21,2020-02-03,2020-02-04,AFH
-Snapchat,SNAP,"Tue aftermarket",+3,2020-02-03,2020-02-04,AFH
-Chipotle,CMG,"Tue aftermarket",-18,2020-02-03,2020-02-04,AFH
-GM,GM,"Wed beforemarket",-36,2020-02-03,2020-02-05,PREMARKET
-Coach,TPR,"Thu beforemarket",+65,2020-02-03,2020-02-06,PREMARKET
-Dunkin Brands,DNKN,"Thu beforemarket",+39,2020-02-03,2020-02-06,PREMARKET
-Amerco,UHAL,"Wed aftermarket",+27,2020-02-03,2020-02-05,AFH
-Netgear,NTGR,"Wed aftermarket",+8,2020-02-03,2020-02-05,AFH
-iRobot,IRBT,"Wed aftermarket",+4,2020-02-03,2020-02-05,AFH
-Toyota,TM,"Thu beforemarket",-12,2020-02-03,2020-02-06,PREMARKET
-Peloton,PTON,"Wed aftermarket",-12,2020-02-03,2020-02-05,AFH
-GoPro,GPRO,"Wed aftermarket",-7,2020-02-03,2020-02-05,AFH
-Kellogg,K,"Thu beforemarket",-14,2020-02-03,2020-02-06,PREMARKET
-GrubHub,GRUB,"Wed aftermarket",-15,2020-02-03,2020-02-05,AFH
-Spirit Air,SAVE,"Wed aftermarket",-17,2020-02-03,2020-02-05,AFH
-Yum,YUM,"Thu beforemarket",-24,2020-02-03,2020-02-06,PREMARKET
-Sonos,SONO,"Wed aftermarket",-27,2020-02-03,2020-02-05,AFH
-Snap-On,SNA,"Thu beforemarket",-51,2020-02-03,2020-02-06,PREMARKET
-Skechers,SKX,"Thu aftermarket",+18,2020-02-03,2020-02-06,AFH
-Uber,UBER,"Thu aftermarket",+1,2020-02-03,2020-02-06,AFH
-Canada Goose,GOOS,"Fri beforemarket",-4,2020-02-03,2020-02-07,PREMARKET
-Hanes,HBI,"Fri beforemarket",-26,2020-02-03,2020-02-07,PREMARKET
-Take-Two,TTWO,"Thu aftermarket",-38,2020-02-03,2020-02-06,AFH
-Pinterest,PINS,"Thu aftermarket",-41,2020-02-03,2020-02-06,AFH
-Under Armour,UAA,"Tue beforemarket",+26,2020-02-10,2020-02-11,PREMARKET
-Hasbro,HAS,"Tue beforemarket",-1,2020-02-10,2020-02-11,PREMARKET
-Daimler,DDAIF,"Tue beforemarket",-18,2020-02-10,2020-02-11,PREMARKET
-Hilton,HLT,"Tue beforemarket",-23,2020-02-10,2020-02-11,PREMARKET
-Callaway,ELY,"Mon aftermarket",-43,2020-02-10,2020-02-10,AFH
-AutoNation,AN,"Tue beforemarket",-47,2020-02-10,2020-02-11,PREMARKET
-Lyft,LYFT,"Tue aftermarket",+30,2020-02-10,2020-02-11,AFH
-Denny's,DENN,"Tue aftermarket",+27,2020-02-10,2020-02-11,AFH
-Kering,PPRUY,"Wed beforemarket",+14,2020-02-10,2020-02-12,PREMARKET
-Coors,TAP,"Wed beforemarket",-13,2020-02-10,2020-02-12,PREMARKET
-CVS,CVS,"Wed beforemarket",-23,2020-02-10,2020-02-12,PREMARKET
-YETI,YETI,"Thu beforemarket",+4,2020-02-10,2020-02-13,PREMARKET
-Pepsi,PEP,"Thu beforemarket",-3,2020-02-10,2020-02-13,PREMARKET
-Alibaba,BABA,"Thu beforemarket",-27,2020-02-10,2020-02-13,PREMARKET
-Tempur Sealy,TPX,"Thu beforemarket",-42,2020-02-10,2020-02-13,PREMARKET
-Godaddy,GDDY,"Thu aftermarket",+13,2020-02-10,2020-02-13,AFH
-Canopy Growth,CGC,"Fri beforemarket",+11,2020-02-10,2020-02-14,PREMARKET
-Trupanion,TRUP,"Thu aftermarket",+10,2020-02-10,2020-02-13,AFH
-Roku,ROKU,"Thu aftermarket",+6,2020-02-10,2020-02-13,AFH
-Yelp,YELP,"Thu aftermarket",0,2020-02-10,2020-02-13,AFH
-Expedia,EXPE,"Thu aftermarket",-9,2020-02-10,2020-02-13,AFH
-Nvidia,NVDA,"Thu aftermarket",-17,2020-02-10,2020-02-13,AFH
-Mattel,MAT,"Thu aftermarket",-56,2020-02-10,2020-02-13,AFH
-Puma,PMMAF,"Wed beforemarket",+11,2020-02-17,2020-02-19,PREMARKET
-DISH,DISH,"Wed beforemarket",+5,2020-02-17,2020-02-19,PREMARKET
-Wingstop,WING,"Wed beforemarket",-3,2020-02-17,2020-02-19,PREMARKET
-Genuine Parts,GPC,"Wed beforemarket",-25,2020-02-17,2020-02-19,PREMARKET
-Hyatt,H,"Wed aftermarket",+3,2020-02-17,2020-02-19,AFH
-Cheesecake Factory,CAKE,"Wed aftermarket",-14,2020-02-17,2020-02-19,AFH
-Domino's,DPZ,"Thu beforemarket",-16,2020-02-17,2020-02-20,PREMARKET
-Jack in the Box,JACK,"Wed aftermarket",-28,2020-02-17,2020-02-19,AFH
-Wix,WIX,"Thu beforemarket",-44,2020-02-17,2020-02-20,PREMARKET
-Ruth's Group,RUTH,"Fri beforemarket",+8,2020-02-17,2020-02-21,PREMARKET
-Deere,DE,"Fri beforemarket",+5,2020-02-17,2020-02-21,PREMARKET
-Sprouts,SFM,"Thu aftermarket",0,2020-02-17,2020-02-20,AFH
-Dropbox,DBX,"Thu aftermarket",-12,2020-02-17,2020-02-20,AFH
-BJ's,BJRI,"Thu aftermarket",-16,2020-02-17,2020-02-20,AFH
-Texas Roadhouse,TXRH,"Thu aftermarket",-22,2020-02-17,2020-02-20,AFH
-Fitbit,FIT,"Thu aftermarket",-52,2020-02-17,2020-02-20,AFH
-Macy's,M,"Tue beforemarket",+7,2020-02-24,2020-02-25,PREMARKET
-Intuit,INTU,"Mon aftermarket",-3,2020-02-24,2020-02-24,AFH
-Hertz,HTZ,"Mon aftermarket",-22,2020-02-24,2020-02-24,AFH
-Home Depot,HD,"Tue beforemarket",-24,2020-02-24,2020-02-25,PREMARKET
-Shake Shack,SHAK,"Mon aftermarket",-43,2020-02-24,2020-02-24,AFH
-Revolve,RVLV,"Tue aftermarket",+96,2020-02-24,2020-02-25,AFH
-Salesforce,CRM,"Tue aftermarket",+17,2020-02-24,2020-02-25,AFH
-Smuckers,SJM,"Wed beforemarket",+16,2020-02-24,2020-02-26,PREMARKET
-Weight Watchers,WW,"Tue aftermarket",+9,2020-02-24,2020-02-25,AFH
-Lowe's,LOW,"Wed beforemarket",+2,2020-02-24,2020-02-26,PREMARKET
-TJX,TJX,"Wed beforemarket",-8,2020-02-24,2020-02-26,PREMARKET
-Papa John's,PZZA,"Wed beforemarket",-14,2020-02-24,2020-02-26,PREMARKET
-Planet Fitness,PLNT,"Tue aftermarket",-17,2020-02-24,2020-02-25,AFH
-Wendy's,WEN,"Wed beforemarket",-18,2020-02-24,2020-02-26,PREMARKET
-Churchill Downs,CHDN,"Wed aftermarket",+47,2020-02-24,2020-02-26,AFH
-Best Buy,BBY,"Thu beforemarket",+33,2020-02-24,2020-02-27,PREMARKET
-Red Lion,RLH,"Thu beforemarket",+14,2020-02-24,2020-02-27,PREMARKET
-Crocs,CROX,"Thu beforemarket",+13,2020-02-24,2020-02-27,PREMARKET
-Square,SQ,"Wed aftermarket",+7,2020-02-24,2020-02-26,AFH
-L Brands,LB,"Wed aftermarket",+15,2020-02-24,2020-02-26,AFH
-Keurig Dr Pepper,KDP,"Thu beforemarket",+5,2020-02-24,2020-02-27,PREMARKET
-Marriott,MAR,"Wed aftermarket",-4,2020-02-24,2020-02-26,AFH
-Etsy,ETSY,"Wed aftermarket",-13,2020-02-24,2020-02-26,AFH
-Priceline,BKNG,"Wed aftermarket",-14,2020-02-24,2020-02-26,AFH
-Carvana,CVNA,"Wed aftermarket",-14,2020-02-24,2020-02-26,AFH
-AB Inbev,BUD,"Thu beforemarket",-16,2020-02-24,2020-02-27,PREMARKET
-Fiesta Group,FRGI,"Wed aftermarket",-32,2020-02-24,2020-02-26,AFH
-Hostess,TWNK,"Wed aftermarket",-36,2020-02-24,2020-02-26,AFH
-Beyond Meat,BYND,"Wed aftermarket",-83,2020-02-24,2020-02-26,AFH
-Monster,MNST,"Thu aftermarket",+33,2020-02-24,2020-02-27,AFH
-Farfetch,FTCH,"Thu aftermarket",+26,2020-02-24,2020-02-27,AFH
-Footlocker,FL,"Fri beforemarket",-3,2020-02-24,2020-02-28,PREMARKET
-Autodesk,ADSK,"Thu aftermarket",-8,2020-02-24,2020-02-27,AFH
-Wayfair,W,"Fri beforemarket",-29,2020-02-24,2020-02-28,PREMARKET
-Kohl's,KSS,"Tue beforemarket",+25,2020-03-02,2020-03-03,PREMARKET
-Target,TGT,"Tue beforemarket",+11,2020-03-02,2020-03-03,PREMARKET
-AutoZone,AZO,"Tue beforemarket",-12,2020-03-02,2020-03-03,PREMARKET
-Tilray,TLRY,"Mon aftermarket",-32,2020-03-02,2020-03-02,AFH
-Nordstrom,JWN,"Tue aftermarket",+21,2020-03-02,2020-03-03,AFH
-Campbell Soup,CPB,"Wed beforemarket",+10,2020-03-02,2020-03-04,PREMARKET
-Dollar Tree,DLTR,"Wed beforemarket",+9,2020-03-02,2020-03-04,PREMARKET
-Abercrombie,ANF,"Wed beforemarket",0,2020-03-02,2020-03-04,PREMARKET
-Ross Stores,ROST,"Tue aftermarket",-15,2020-03-02,2020-03-03,AFH
-Urban Outfitters,URBN,"Tue aftermarket",-17,2020-03-02,2020-03-03,AFH
-Burlington,BURL,"Thu beforemarket",-1,2020-03-02,2020-03-05,PREMARKET
-American Eagle,AEO,"Wed aftermarket",-10,2020-03-02,2020-03-04,AFH
-Kroger,KR,"Thu beforemarket",-24,2020-03-02,2020-03-05,PREMARKET
-Zoom,ZM,"Wed aftermarket",-65,2020-03-02,2020-03-04,AFH
-HR Block,HRB,"Thu aftermarket",+25,2020-03-02,2020-03-05,AFH
-Chuy's,CHUY,"Thu aftermarket",-7,2020-03-02,2020-03-05,AFH
-Costco,COST,"Thu aftermarket",-13,2020-03-02,2020-03-05,AFH
-Stitch Fix,SFIX,"Mon aftermarket",-12,2020-03-09,2020-03-09,AFH
-Casey's,CASY,"Mon aftermarket",-33,2020-03-09,2020-03-09,AFH
-Build-A-Bear,BBW,"Wed beforemarket",+74,2020-03-09,2020-03-11,PREMARKET
-Adidas,ADDYY,"Wed beforemarket",+39,2020-03-09,2020-03-11,PREMARKET
-Express,EXPR,"Wed beforemarket",0,2020-03-09,2020-03-11,PREMARKET
-Turtle Beach,HEAR,"Tue aftermarket",-40,2020-03-09,2020-03-10,AFH
-ZAGG,ZAGG,"Wed aftermarket",-3,2020-03-09,2020-03-11,AFH
-Dollar General,DG,"Thu beforemarket",-29,2020-03-09,2020-03-12,PREMARKET
-Gap,GPS,"Thu aftermarket",+1,2020-03-09,2020-03-12,AFH
-Ulta,ULTA,"Thu aftermarket",-6,2020-03-09,2020-03-12,AFH
-Adobe,ADBE,"Thu aftermarket",-11,2020-03-09,2020-03-12,AFH
-Tilly's,TLYS,"Thu aftermarket",-20,2020-03-09,2020-03-12,AFH
-Michaels,MIK,"Tue beforemarket",+13,2020-03-16,2020-03-17,PREMARKET
-Volkswagen,VLKAY,"Tue beforemarket",-9,2020-03-16,2020-03-17,PREMARKET
-DSW,DBI,"Tue beforemarket",-10,2020-03-16,2020-03-17,PREMARKET
-Lands End,LE,"Tue beforemarket",-53,2020-03-16,2020-03-17,PREMARKET
-Kodak,KODK,"Tue aftermarket",+34,2020-03-16,2020-03-17,AFH
-FedEx,FDX,"Tue aftermarket",+10,2020-03-16,2020-03-17,AFH
-BMW,BMWYY,"Wed beforemarket",-14,2020-03-16,2020-03-18,PREMARKET
-Guess,GES,"Wed aftermarket",+77,2020-03-16,2020-03-18,AFH
-Five Below,FIVE,"Wed aftermarket",+10,2020-03-16,2020-03-18,AFH
-Darden,DRI,"Thu beforemarket",+8,2020-03-16,2020-03-19,PREMARKET
-Tailored Brands,TLRD,"Wed aftermarket",-20,2020-03-16,2020-03-18,AFH
-Ollie's,OLLI,"Thu aftermarket",+9,2020-03-16,2020-03-19,AFH
-Citigroup,C,Wed before market,+39,2020-04-13,2020-04-15,PREMARKET
-U.S. Bank,USB,Wed before market,+6,2020-04-13,2020-04-15,PREMARKET
-Rite Aid,RAD,Thu before market,+36,2020-04-13,2020-04-16,PREMARKET
-Bed Bath,BBBY,Wed after market,-8,2020-04-13,2020-04-15,AFH
-Lovesac,LOVE,Thu before market,-13,2020-04-13,2020-04-16,PREMARKET
-5/3 Bank,FITB,Tue before market,+77,2020-04-20,2020-04-21,PREMARKET
-Snap-On,SNA,Tue before market,+36,2020-04-20,2020-04-21,PREMARKET
-Kering,PPRUY,Tue before market,+23,2020-04-20,2020-04-21,PREMARKET
-IBM,IBM,Mon after market,+4,2020-04-20,2020-04-20,AFH
-Coca Cola,KO,Tue before market,-8,2020-04-20,2020-04-21,PREMARKET
-Kimberly-Clark,KMB,Wed before market,+73,2020-04-20,2020-04-22,PREMARKET
-Netflix,NFLX,Tue after market,+43,2020-04-20,2020-04-21,AFH
-Chipotle,CMG,Tue after market,+8,2020-04-20,2020-04-21,AFH
-Snapchat,SNAP,Tue after market,+5,2020-04-20,2020-04-21,AFH
-Delta,DAL,Wed before market,-5,2020-04-20,2020-04-22,PREMARKET
-Citrix,CTXS,Thu before market,+66,2020-04-20,2020-04-23,PREMARKET
-Netgear,NTGR,Wed after market,+33,2020-04-20,2020-04-22,AFH
-Domino's,DPZ,Thu before market,+11,2020-04-20,2020-04-23,PREMARKET
-Discover,DFS,Wed after market,+8,2020-04-20,2020-04-22,AFH
-Canon,CAJ,Thu before market,-12,2020-04-20,2020-04-23,PREMARKET
-Crocs,CROX,Thu before market,-14,2020-04-20,2020-04-23,PREMARKET
-Southwest,LUV,Thu before market,-20,2020-04-20,2020-04-23,PREMARKET
-AMEX,AXP,Fri before market,+11,2020-04-20,2020-04-24,PREMARKET
-Skechers,SKX,Thu after market,-21,2020-04-20,2020-04-23,AFH
-UPS,UPS,Tue before market,+59,2020-04-27,2020-04-28,PREMARKET
-Sirius XM,SIRI,Tue before market,+21,2020-04-27,2020-04-28,PREMARKET
-Keurig Dr Pepper,KDP,Mon after market,+20,2020-04-27,2020-04-27,AFH
-PepsiCo,PEP,Tue before market,+1,2020-04-27,2020-04-28,PREMARKET
-Harley,HOG,Tue before market,-15,2020-04-27,2020-04-28,PREMARKET
-Xerox,XRX,Tue before market,-31,2020-04-27,2020-04-28,PREMARKET
-Southwest,LUV,Tue before market,-32,2020-04-27,2020-04-28,PREMARKET
-Sherwin-Williams,SHW,Wed before market,+28,2020-04-27,2020-04-29,PREMARKET
-Spotify,SPOT,Wed before market,+26,2020-04-27,2020-04-29,PREMARKET
-Brinker,EAT,Wed before market,+22,2020-04-27,2020-04-29,PREMARKET
-iRobot,IRBT,Tue after market,+11,2020-04-27,2020-04-28,AFH
-Daimler,DDAIF,Wed before market,-4,2020-04-27,2020-04-29,PREMARKET
-Weight Watchers,WW,Tue after market,-5,2020-04-27,2020-04-28,AFH
-Yum,YUM,Wed before market,-9,2020-04-27,2020-04-29,PREMARKET
-Starbucks,SBUX,Tue after market,-10,2020-04-27,2020-04-28,AFH
-Volkswagen,VLKAF,Wed before market,-13,2020-04-27,2020-04-29,PREMARKET
-Hasbro,HAS,Wed before market,-16,2020-04-27,2020-04-29,PREMARKET
-Ford,F,Tue after market,-45,2020-04-27,2020-04-28,AFH
-eBay,EBAY,Wed after market,+53,2020-04-27,2020-04-29,AFH
-Tempur Sealy,TPX,Thu before market,+37,2020-04-27,2020-04-30,PREMARKET
-Altria,MO,Thu before market,+32,2020-04-27,2020-04-30,PREMARKET
-Kellogg,K,Thu before market,+30,2020-04-27,2020-04-30,PREMARKET
-Churchill Downs,CHDN,Wed after market,+25,2020-04-27,2020-04-29,AFH
-Coach,TPR,Thu before market,+24,2020-04-27,2020-04-30,PREMARKET
-Facebook,FB,Wed after market,+20,2020-04-27,2020-04-29,AFH
-Molson Coors,TAP,Thu before market,+17,2020-04-27,2020-04-30,PREMARKET
-McDonalds,MCD,Thu before market,+6,2020-04-27,2020-04-30,PREMARKET
-Church & Dwight,CHD,Thu before market,+5,2020-04-27,2020-04-30,PREMARKET
-American Airlines,AAL,Thu before market,-5,2020-04-27,2020-04-30,PREMARKET
-Dunkin Brands,DNKN,Thu before market,-14,2020-04-27,2020-04-30,PREMARKET
-Black & Decker,SWK,Thu before market,-21,2020-04-27,2020-04-30,PREMARKET
-Hanes,HBI,Thu before market,-23,2020-04-27,2020-04-30,PREMARKET
-Tesla,TSLA,Wed after market,-73,2020-04-27,2020-04-29,AFH
-Clorox,CLX,Fri before market,+73,2020-04-27,2020-05-01,PREMARKET
-Chevron,CVX,Fri before market,+23,2020-04-27,2020-05-01,PREMARKET
-Whirlpool,WHR,Thu after market,+20,2020-04-27,2020-04-30,AFH
-Amazon,AMZN,Thu after market,+15,2020-04-27,2020-04-30,AFH
-Apple,AAPL,Thu after market,+12,2020-04-27,2020-04-30,AFH
-Phillips 66,PSX,Fri before market,+7,2020-04-27,2020-05-01,PREMARKET
-Visa,V,Thu after market,-15,2020-04-27,2020-04-30,AFH
-United Air,UAL,Thu after market,-24,2020-04-27,2020-04-30,AFH
-Wayfair,W,Tue before market,+68,2020-05-04,2020-05-05,PREMARKET
-Texas Roadhouse,TXRH,Mon after market,+27,2020-05-04,2020-05-04,AFH
-Pandora Jewelry,PANDY,Tue before market,-1,2020-05-04,2020-05-05,PREMARKET
-Marathon,MPC,Tue before market,-14,2020-05-04,2020-05-05,PREMARKET
-Alaska Air,ALK,Tue before market,-31,2020-05-04,2020-05-05,PREMARKET
-Shake Shack,SHAK,Mon after market,-34,2020-05-04,2020-05-04,AFH
-Pinterest,PINS,Tue after market,+60,2020-05-04,2020-05-05,AFH
-Allstate,ALL,Tue after market,+44,2020-05-04,2020-05-05,AFH
-Cheesecake Factory,CAKE,Tue after market,+25,2020-05-04,2020-05-05,AFH
-CVS,CVS,Wed before market,+24,2020-05-04,2020-05-06,PREMARKET
-Wingstop,WING,Wed before market,+24,2020-05-04,2020-05-06,PREMARKET
-Mattel,MAT,Tue after market,+13,2020-05-04,2020-05-05,AFH
-GM,GM,Wed before market,-3,2020-05-04,2020-05-06,PREMARKET
-Sprouts,SFM,Tue after market,-3,2020-05-04,2020-05-05,AFH
-Genuine Parts,GPC,Wed before market,-5,2020-05-04,2020-05-06,PREMARKET
-Wendy's,WEN,Wed before market,-18,2020-05-04,2020-05-06,PREMARKET
-Papa John's,PZZA,Wed before market,-20,2020-05-04,2020-05-06,PREMARKET
-BMW,BMWYY,Wed before market,-37,2020-05-04,2020-05-06,PREMARKET
-Planet Fitness,PLNT,Tue after market,-58,2020-05-04,2020-05-05,AFH
-Beyond Meat,BYND,Tue after market,-76,2020-05-04,2020-05-05,AFH
-Etsy,ETSY,Wed after market,+59,2020-05-04,2020-05-06,AFH
-GrubHub,GRUB,Wed after market,+54,2020-05-04,2020-05-06,AFH
-PayPal,PYPL,Wed after market,+29,2020-05-04,2020-05-06,AFH
-AB Inbev,BUD,Thu before market,+22,2020-05-04,2020-05-07,PREMARKET
-Peloton,PTON,Wed after market,+19,2020-05-04,2020-05-06,AFH
-Square,SQ,Wed after market,+18,2020-05-04,2020-05-06,AFH
-YETI,YETI,Thu before market,+4,2020-05-04,2020-05-07,PREMARKET
-Sonos,SONO,Wed after market,-5,2020-05-04,2020-05-06,AFH
-Puma,PMMAF,Thu before market,-8,2020-05-04,2020-05-07,PREMARKET
-Godaddy,GDDY,Wed after market,-15,2020-05-04,2020-05-06,AFH
-JetBlue,JBLU,Thu before market,-21,2020-05-04,2020-05-07,PREMARKET
-Carvana,CVNA,Wed after market,-25,2020-05-04,2020-05-06,AFH
-Hilton,HLT,Thu before market,-33,2020-05-04,2020-05-07,PREMARKET
-Spirit Air,SAVE,Wed after market,-45,2020-05-04,2020-05-06,AFH
-Lyft,LYFT,Wed after market,-70,2020-05-04,2020-05-06,AFH
-Hyatt,H,Wed after market,-73,2020-05-04,2020-05-06,AFH
-Turtle Beach,HEAR,Thu after market,+49,2020-05-04,2020-05-07,AFH
-Roku,ROKU,Thu after market,+29,2020-05-04,2020-05-07,AFH
-Hostess,TWNK,Fri before market,+23,2020-05-04,2020-05-08,PREMARKET
-Dropbox,DBX,Thu after market,+10,2020-05-04,2020-05-07,AFH
-Priceline,BKNG,Thu after market,-3,2020-05-04,2020-05-07,AFH
-Uber,UBER,Thu after market,-6,2020-05-04,2020-05-07,AFH
-Bloomin Brands,BLMN,Fri before market,-6,2020-05-04,2020-05-08,PREMARKET
-Adidas,ADDYY,Fri before market,-8,2020-05-04,2020-05-08,PREMARKET
-Yelp,YELP,Thu after market,-9,2020-05-04,2020-05-07,AFH
-GoPro,GPRO,Thu after market,-11,2020-05-04,2020-05-07,AFH
-Callaway,ELY,Thu after market,-17,2020-05-04,2020-05-07,AFH
-Monster,MNST,Thu after market,-38,2020-05-04,2020-05-07,AFH
-BJ's,BJRI,Thu after market,-41,2020-05-04,2020-05-07,AFH
-Under Armour,UAA,Mon before market,-9,2020-05-04,2020-05-04,PREMARKET
-Marriott,MAR,Mon before market,-29,2020-05-04,2020-05-04,PREMARKET
-Tilray,TLRY,Mon after market,+53,2020-05-11,2020-05-11,AFH
-Logitech,LOGI,Mon after market,+17,2020-05-11,2020-05-11,AFH
-Arlo Technologies,ARLO,Mon after market,+13,2020-05-11,2020-05-11,AFH
-Ethan Allen,ETH,Mon after market,-59,2020-05-11,2020-05-11,AFH
-Kodak,KODK,Tue after market,-30,2020-05-11,2020-05-12,AFH
-Wix,WIX,Thu before market,-2,2020-05-11,2020-05-14,PREMARKET
-Jack in the Box,JACK,Wed after market,-41,2020-05-11,2020-05-13,AFH
-Farfetch,FTCH,Thu after market,+28,2020-05-11,2020-05-14,AFH
-Denny's,DENN,Thu after market,-50,2020-05-11,2020-05-14,AFH
-Home Depot,HD,Tue before market,+75,2020-05-18,2020-05-19,PREMARKET
-Wal-Mart,WMT,Tue before market,+66,2020-05-18,2020-05-19,PREMARKET
-Kohl's,KSS,Tue before market,-3,2020-05-18,2020-05-19,PREMARKET
-Advance Auto,AAP,Tue before market,-22,2020-05-18,2020-05-19,PREMARKET
-Lowe's,LOW,Wed before market,+74,2020-05-18,2020-05-20,PREMARKET
-Target,TGT,Wed before market,+56,2020-05-18,2020-05-20,PREMARKET
-Urban Outfitters,URBN,Tue after market,+21,2020-05-18,2020-05-19,AFH
-L Brands,LB,Wed after market,+44,2020-05-18,2020-05-20,AFH
-Take-Two,TTWO,Wed after market,+42,2020-05-18,2020-05-20,AFH
-Expedia,EXPE,Wed after market,+41,2020-05-18,2020-05-20,AFH
-Best Buy,BBY,Thu before market,+37,2020-05-18,2020-05-21,PREMARKET
-TJX,TJX,Thu before market,+31,2020-05-18,2020-05-21,PREMARKET
-Shoe Carnival,SCVL,Wed after market,-17,2020-05-18,2020-05-20,AFH
-Boot Barn,BOOT,Wed after market,-35,2020-05-18,2020-05-20,AFH
-Footlocker,FL,Fri before market,+52,2020-05-18,2020-05-22,PREMARKET
-Nvidia,NVDA,Thu after market,+26,2020-05-18,2020-05-21,AFH
-Ross Stores,ROST,Thu after market,+25,2020-05-18,2020-05-21,AFH
-Deere,DE,Fri before market,+10,2020-05-18,2020-05-22,PREMARKET
-Alibaba,BABA,Fri before market,0,2020-05-18,2020-05-22,PREMARKET
-Intuit,INTU,Thu after market,-29,2020-05-18,2020-05-21,AFH
-AutoZone,AZO,Tue before market,+1,2020-05-18,2020-05-19,PREMARKET
-Polo,RL,Wed before market,+4,2020-05-26,2020-05-28,PREMARKET
-Dollar Tree,DLTR,Thu before market,+51,2020-05-26,2020-05-29,PREMARKET
-Dollar General,DG,Thu before market,+43,2020-05-26,2020-05-29,PREMARKET
-Autodesk,ADSK,Wed after market,+18,2020-05-26,2020-05-28,AFH
-Abercrombie,ANF,Thu before market,0,2020-05-26,2020-05-29,PREMARKET
-Amerco,UHAL,Wed after market,-10,2020-05-26,2020-05-28,AFH
-Burlington,BURL,Thu before market,-49,2020-05-26,2020-05-29,PREMARKET
-Big Lots,BIG,Fri before market,+85,2020-05-26,2020-05-30,PREMARKET
-Costco,COST,Thu after market,+84,2020-05-26,2020-05-29,AFH
-Ulta,ULTA,Thu after market,+30,2020-05-26,2020-05-29,AFH
-Nordstrom,JWN,Thu after market,+5,2020-05-26,2020-05-29,AFH
-Canopy Growth,CGC,Fri before market,-19,2020-05-26,2020-05-30,PREMARKET
-Ollie's,OLLI,Thu after market,-29,2020-05-26,2020-05-29,AFH
-Salesforce,CRM,Thu after market,-35,2020-05-26,2020-05-29,AFH
-Lands End,LE,Tue before market,-9,2020-06-01,2020-06-02,PREMARKET
-Build-A-Bear,BBW,Tue before market,-41,2020-06-01,2020-06-02,PREMARKET
-Zoom,ZM,Tue after market,+90,2020-06-01,2020-06-02,AFH
-Campbell Soup,CPB,Wed before market,+64,2020-06-01,2020-06-03,PREMARKET
-American Eagle,AEO,Wed before market,+16,2020-06-01,2020-06-03,PREMARKET
-Canada Goose,GOOS,Wed before market,+10,2020-06-01,2020-06-03,PREMARKET
-Express,EXPR,Wed before market,-4,2020-06-01,2020-06-03,PREMARKET
-Michaels,MIK,Thu before market,+84,2020-06-01,2020-06-04,PREMARKET
-Smuckers,SJM,Thu before market,+45,2020-06-01,2020-06-04,PREMARKET
-Tilly's,TLYS,Wed after market,+31,2020-06-01,2020-06-03,AFH
-G-III,GIII,Thu before market,+4,2020-06-01,2020-06-04,PREMARKET
-Gap,GPS,Thu after market,+18,2020-06-01,2020-06-04,AFH
-Signet Jewelers,SIG,Tue before market,+34,2020-06-08,2020-06-09,PREMARKET
-Casey's,CASY,Mon after market,+33,2020-06-08,2020-06-08,AFH
-Lovesac,LOVE,Tue before market,+8,2020-06-08,2020-06-09,PREMARKET
-Stitch Fix,SFIX,Mon after market,-31,2020-06-08,2020-06-08,AFH
-Chewy,CHWY,Tue after market,0,2020-06-08,2020-06-09,AFH
-Guess,GES,Wed before market,-21,2020-06-08,2020-06-10,PREMARKET
-Five Below,FIVE,Tue after market,-52,2020-06-08,2020-06-09,AFH
-The Children's Place,PLCE,Thu before market,+53,2020-06-08,2020-06-11,PREMARKET
-Adobe,ADBE,Thu after market,+23,2020-06-08,2020-06-11,AFH
-Lululemon,LULU,Thu after market,+2,2020-06-08,2020-06-11,AFH
-Dave & Buster's,PLAY,Thu after market,-79,2020-06-08,2020-06-11,AFH
-HR Block,HRB,Tue after market,+21,2020-06-15,2020-06-16,AFH
-Groupon,GRPN,Tue after market,-48,2020-06-15,2020-06-16,AFH
-Kroger,KR,Thu before market,+75,2020-06-15,2020-06-18,PREMARKET
-Designer Brands,DBI,Thu before market,+20,2020-06-15,2020-06-18,PREMARKET
-At Home,HOME,Thu after market,+58,2020-06-15,2020-06-18,AFH
-Carmax,KMX,Fri before market,-12,2020-06-15,2020-06-19,PREMARKET
-IBM,IBM,Mon after market,+33,2020-07-20,2020-07-20,AFH
-Logitech,LOGI,Mon after market,+17,2020-07-20,2020-07-20,AFH
-Coca Cola,KO,Tue before market,-7,2020-07-20,2020-07-21,PREMARKET
-iRobot,IRBT,Tue after market,-2,2020-07-20,2020-07-21,AFH
-Snapchat,SNAP,Tue after market,-18,2020-07-20,2020-07-21,AFH
-United Air,UAL,Tue after market,-68,2020-07-20,2020-07-21,AFH
-Netgear,NTGR,Wed after market,+43,2020-07-20,2020-07-22,AFH
-Daimler,DDAIF,Thu before market,+33,2020-07-20,2020-07-23,PREMARKET
-Whirlpool,WHR,Wed after market,+29,2020-07-20,2020-07-22,AFH
-AutoNation,AN,Thu before market,-1,2020-07-20,2020-07-23,PREMARKET
-Southwest,LUV,Thu before market,-26,2020-07-20,2020-07-23,PREMARKET
-Tesla,TSLA,Wed after market,-24,2020-07-20,2020-07-22,AFH
-Chipotle,CMG,Wed after market,-26,2020-07-20,2020-07-22,AFH
-Alaska Air,ALK,Thu before market,-43,2020-07-20,2020-07-23,PREMARKET
-Discover,DFS,Wed after market,-51,2020-07-20,2020-07-22,AFH
-Citrix,CTXS,Thu before market,-55,2020-07-20,2020-07-23,PREMARKET
-5/3 Bank,FITB,Thu before market,-57,2020-07-20,2020-07-23,PREMARKET
-Kimberly-Clark,KMB,Thu before market,-68,2020-07-20,2020-07-23,PREMARKET
-American Airlines,AAL,Thu before market,-70,2020-07-20,2020-07-23,PREMARKET
-Mattel,MAT,Thu after market,+74,2020-07-20,2020-07-23,AFH
-Bloomin Brands,BLMN,Fri before market,+35,2020-07-20,2020-07-24,PREMARKET
-Skechers,SKX,Thu after market,+22,2020-07-20,2020-07-23,AFH
-AMEX,AXP,Fri before market,-25,2020-07-20,2020-07-24,PREMARKET
-BJ's,BJRI,Thu after market,-47,2020-07-20,2020-07-23,AFH
-Hasbro,HAS,Mon before market,-24,2020-07-20,2020-07-20,PREMARKET
-Polaris,PII,Tue before market,+35,2020-07-27,2020-07-28,PREMARKET
-Canon,CAJ,Tue before market,+34,2020-07-27,2020-07-28,PREMARKET
-Sherwin-Williams,SHW,Tue before market,+10,2020-07-27,2020-07-28,PREMARKET
-Xerox,XRX,Tue before market,-2,2020-07-27,2020-07-28,PREMARKET
-McDonalds,MCD,Tue before market,-8,2020-07-27,2020-07-28,PREMARKET
-Kering,PPRUY,Tue before market,-10,2020-07-27,2020-07-28,PREMARKET
-Harley,HOG,Tue before market,-50,2020-07-27,2020-07-28,PREMARKET
-JetBlue,JBLU,Tue before market,-55,2020-07-27,2020-07-28,PREMARKET
-Altria,MO,Tue before market,-59,2020-07-27,2020-07-28,PREMARKET
-Spotify,SPOT,Wed before market,+68,2020-07-27,2020-07-29,PREMARKET
-Denny's,DENN,Tue after market,+6,2020-07-27,2020-07-28,AFH
-Visa,V,Tue after market,0,2020-07-27,2020-07-28,AFH
-Puma,PMMAF,Wed before market,0,2020-07-27,2020-07-29,PREMARKET
-GM,GM,Wed before market,-4,2020-07-27,2020-07-29,PREMARKET
-Starbucks,SBUX,Tue after market,-13,2020-07-27,2020-07-28,AFH
-Wingstop,WING,Wed before market,-25,2020-07-27,2020-07-29,PREMARKET
-Hawaiian Holdings,HA,Tue after market,-91,2020-07-27,2020-07-28,AFH
-Black & Decker,SWK,Thu before market,+34,2020-07-27,2020-07-30,PREMARKET
-Crocs,CROX,Thu before market,+24,2020-07-27,2020-07-30,PREMARKET
-UPS,UPS,Thu before market,+10,2020-07-27,2020-07-30,PREMARKET
-Facebook,FB,Wed after market,+4,2020-07-27,2020-07-29,AFH
-Tempur Sealy,TPX,Thu before market,+4,2020-07-27,2020-07-30,PREMARKET
-Sprouts,SFM,Wed after market,+3,2020-07-27,2020-07-29,AFH
-Yum,YUM,Thu before market,-6,2020-07-27,2020-07-30,PREMARKET
-Volkswagen,VLKAY,Thu before market,-8,2020-07-27,2020-07-30,PREMARKET
-PayPal,PYPL,Wed after market,-11,2020-07-27,2020-07-29,AFH
-Hanes,HBI,Thu before market,-12,2020-07-27,2020-07-30,PREMARKET
-Keurig Dr Pepper,KDP,Thu before market,-14,2020-07-27,2020-07-30,PREMARKET
-Kellogg,K,Thu before market,-17,2020-07-27,2020-07-30,PREMARKET
-Molson Coors,TAP,Thu before market,-23,2020-07-27,2020-07-30,PREMARKET
-AB Inbev,BUD,Thu before market,-25,2020-07-27,2020-07-30,PREMARKET
-Sirius XM,SIRI,Thu before market,-25,2020-07-27,2020-07-30,PREMARKET
-Cheesecake Factory,CAKE,Wed after market,-26,2020-07-27,2020-07-29,AFH
-Dunkin Brands,DNKN,Thu before market,-29,2020-07-27,2020-07-30,PREMARKET
-Genuine Parts,GPC,Thu before market,-41,2020-07-27,2020-07-30,PREMARKET
-Churchill Downs,CHDN,Wed after market,-51,2020-07-27,2020-07-29,AFH
-Pinterest,PINS,Fri before market,+58,2020-07-27,2020-07-31,PREMARKET
-Under Armour,UAA,Fri before market,+33,2020-07-27,2020-07-31,PREMARKET
-Apple,AAPL,Thu after market,+28,2020-07-27,2020-07-30,AFH
-Ford,F,Thu after market,+11,2020-07-27,2020-07-30,AFH
-Phillips 66,PSX,Fri before market,+9,2020-07-27,2020-07-31,PREMARKET
-Snap-On,SNA,Fri before market,-9,2020-07-27,2020-07-31,PREMARKET
-Amazon,AMZN,Thu after market,-10,2020-07-27,2020-07-30,AFH
-Church & Dwight,CHD,Fri before market,-19,2020-07-27,2020-07-31,PREMARKET
-Shake Shack,SHAK,Thu after market,-28,2020-07-27,2020-07-30,AFH
-Chevron,CVX,Fri before market,-36,2020-07-27,2020-07-31,PREMARKET
-Expedia,EXPE,Thu after market,-44,2020-07-27,2020-07-30,AFH
-SkyWest,SKYW,Thu after market,-86,2020-07-27,2020-07-30,AFH
-Marathon,MPC,Mon before market,+6,2020-07-27,2020-07-27,PREMARKET
-Clorox,CLX,Mon before market,-36,2020-07-27,2020-07-27,PREMARKET
-Polo,RL,Tue before market,+6,2020-08-03,2020-08-04,PREMARKET
-Take-Two,TTWO,Mon after market,-24,2020-08-03,2020-08-03,AFH
-Texas Roadhouse,TXRH,Mon after market,-27,2020-08-03,2020-08-03,AFH
-Hyatt,H,Mon after market,-60,2020-08-03,2020-08-03,AFH
-Wayfair,W,Wed before market,+52,2020-08-03,2020-08-05,PREMARKET
-Ethan Allen,ETH,Tue after market,+33,2020-08-03,2020-08-04,AFH
-Weight Watchers,WW,Tue after market,+9,2020-08-03,2020-08-04,AFH
-ZAGG,ZAGG,Tue after market,0,2020-08-03,2020-08-04,AFH
-Monster,MNST,Tue after market,-11,2020-08-03,2020-08-04,AFH
-BMW,BMWYY,Wed before market,-20,2020-08-03,2020-08-05,PREMARKET
-Allstate,ALL,Tue after market,-25,2020-08-03,2020-08-04,AFH
-Wendy's,WEN,Wed before market,-26,2020-08-03,2020-08-05,PREMARKET
-CVS,CVS,Wed before market,-39,2020-08-03,2020-08-05,PREMARKET
-Planet Fitness,PLNT,Tue after market,-40,2020-08-03,2020-08-04,AFH
-Beyond Meat,BYND,Tue after market,-74,2020-08-03,2020-08-04,AFH
-Turtle Beach,HEAR,Thu before market,+75,2020-08-03,2020-08-06,PREMARKET
-Red Lion,RLH,Wed after market,+61,2020-08-03,2020-08-05,AFH
-Etsy,ETSY,Wed after market,+58,2020-08-03,2020-08-05,AFH
-Sonos,SONO,Wed after market,+49,2020-08-03,2020-08-05,AFH
-Roku,ROKU,Wed after market,+38,2020-08-03,2020-08-05,AFH
-YETI,YETI,Thu before market,+29,2020-08-03,2020-08-06,PREMARKET
-Carvana,CVNA,Wed after market,+12,2020-08-03,2020-08-05,AFH
-Toyota,TM,Thu before market,+9,2020-08-03,2020-08-06,PREMARKET
-Godaddy,GDDY,Wed after market,+8,2020-08-03,2020-08-05,AFH
-Square,SQ,Wed after market,+7,2020-08-03,2020-08-05,AFH
-Adidas,ADDYY,Thu before market,+5,2020-08-03,2020-08-06,PREMARKET
-Wix,WIX,Thu before market,+5,2020-08-03,2020-08-06,PREMARKET
-Arlo Technologies,ARLO,Wed after market,0,2020-08-03,2020-08-05,AFH
-Boot Barn,BOOT,Wed after market,-9,2020-08-03,2020-08-05,AFH
-Restaurant Brands,QSR,Thu before market,-19,2020-08-03,2020-08-06,PREMARKET
-Amerco,UHAL,Wed after market,-24,2020-08-03,2020-08-05,AFH
-Fiesta Group,FRGI,Wed after market,-26,2020-08-03,2020-08-05,AFH
-Papa John's,PZZA,Thu before market,-29,2020-08-03,2020-08-06,PREMARKET
-Hostess,TWNK,Wed after market,-41,2020-08-03,2020-08-05,AFH
-Hilton,HLT,Thu before market,-51,2020-08-03,2020-08-06,PREMARKET
-Jack in the Box,JACK,Wed after market,-52,2020-08-03,2020-08-05,AFH
-Callaway,ELY,Thu after market,+21,2020-08-03,2020-08-06,AFH
-GoPro,GPRO,Thu after market,+9,2020-08-03,2020-08-06,AFH
-Dropbox,DBX,Thu after market,-7,2020-08-03,2020-08-06,AFH
-Uber,UBER,Thu after market,-9,2020-08-03,2020-08-06,AFH
-Yelp,YELP,Thu after market,-13,2020-08-03,2020-08-06,AFH
-Chuy's,CHUY,Thu after market,-34,2020-08-03,2020-08-06,AFH
-Groupon,GRPN,Thu after market,-49,2020-08-03,2020-08-06,AFH
-Priceline,BKNG,Thu after market,-89,2020-08-03,2020-08-06,AFH
-Marriott,MAR,Mon before market,-45,2020-08-03,2020-08-03,PREMARKET
-Canada Goose,GOOS,Tue before market,+16,2020-08-10,2020-08-11,PREMARKET
-IHG Hotels,IHG,Tue before market,-43,2020-08-10,2020-08-11,PREMARKET
-Tilray,TLRY,Mon after market,-64,2020-08-10,2020-08-10,AFH
-Brinker,EAT,Wed before market,-47,2020-08-10,2020-08-12,PREMARKET
-Lyft,LYFT,Wed after market,-40,2020-08-10,2020-08-12,AFH
-Revolve,RVLV,Wed after market,-44,2020-08-10,2020-08-12,AFH
-Coach,TPR,Thu before market,-80,2020-08-10,2020-08-13,PREMARKET
-Farfetch,FTCH,Thu after market,+22,2020-08-10,2020-08-13,AFH
-Advance Auto,AAP,Tue before market,+43,2020-08-17,2020-08-18,PREMARKET
-Pandora Jewelry,PANDY,Tue before market,-3,2020-08-17,2020-08-18,PREMARKET
-Kohl's,KSS,Tue before market,-14,2020-08-17,2020-08-18,PREMARKET
-Home Depot,HD,Tue before market,-55,2020-08-17,2020-08-18,PREMARKET
-Wal-Mart,WMT,Tue before market,-57,2020-08-17,2020-08-18,PREMARKET
-TJX,TJX,Wed before market,-16,2020-08-17,2020-08-19,PREMARKET
-Lowe's,LOW,Wed before market,-34,2020-08-17,2020-08-19,PREMARKET
-Target,TGT,Wed before market,-57,2020-08-17,2020-08-19,PREMARKET
-Alibaba,BABA,Thu before market,+9,2020-08-17,2020-08-20,PREMARKET
-Nvidia,NVDA,Wed after market,-16,2020-08-17,2020-08-19,AFH
-L Brands,LB,Wed after market,-40,2020-08-17,2020-08-19,AFH
-Footlocker,FL,Fri before market,+49,2020-08-17,2020-08-21,PREMARKET
-Ross Stores,ROST,Thu after market,+25,2020-08-17,2020-08-20,AFH
-Deere,DE,Fri before market,-30,2020-08-17,2020-08-21,PREMARKET
-Best Buy,BBY,Tue before market,-20,2020-08-24,2020-08-25,PREMARKET
-The Children's Place,PLCE,Tue before market,-25,2020-08-24,2020-08-25,PREMARKET
-Smuckers,SJM,Tue before market,-58,2020-08-24,2020-08-25,PREMARKET
-Autodesk,ADSK,Tue after market,+7,2020-08-24,2020-08-25,AFH
-Express,EXPR,Wed before market,0,2020-08-24,2020-08-26,PREMARKET
-Intuit,INTU,Tue after market,-3,2020-08-24,2020-08-25,AFH
-Urban Outfitters,URBN,Tue after market,-23,2020-08-24,2020-08-25,AFH
-Salesforce,CRM,Tue after market,-40,2020-08-24,2020-08-25,AFH
-Nordstrom,JWN,Tue after market,-47,2020-08-24,2020-08-25,AFH
-Burlington,BURL,Thu before market,-2,2020-08-24,2020-08-27,PREMARKET
-Abercrombie,ANF,Thu before market,-10,2020-08-24,2020-08-27,PREMARKET
-Dollar General,DG,Thu before market,-79,2020-08-24,2020-08-27,PREMARKET
-Dollar Tree,DLTR,Thu before market,-80,2020-08-24,2020-08-27,PREMARKET
-Gap,GPS,Thu after market,+1,2020-08-24,2020-08-27,AFH
-Ollie's,OLLI,Thu after market,-17,2020-08-24,2020-08-27,AFH
-Ulta,ULTA,Thu after market,-48,2020-08-24,2020-08-27,AFH
-Build-A-Bear,BBW,Tue before market,-33,2020-08-31,2020-09-01,PREMARKET
-Zoom,ZM,Mon after market,-90,2020-08-31,2020-08-31,AFH
-Shoe Carnival,SCVL,Tue after market,-2,2020-08-31,2020-09-01,AFH
-HR Block,HRB,Tue after market,-3,2020-08-31,2020-09-01,AFH
-Macy's,M,Wed before market,-21,2020-08-31,2020-09-02,PREMARKET
-Lands End,LE,Wed before market,-42,2020-08-31,2020-09-02,PREMARKET
-At Home,HOME,Tue after market,-60,2020-08-31,2020-09-01,AFH
-Guess,GES,Wed before market,-62,2020-08-31,2020-09-02,PREMARKET
-Five Below,FIVE,Wed after market,+2,2020-08-31,2020-09-02,AFH
-Signet Jewelers,SIG,Thu before market,-22,2020-08-31,2020-09-03,PREMARKET
-Campbell Soup,CPB,Thu before market,-58,2020-08-31,2020-09-03,PREMARKET
-Designer Brands,DBI,Thu before market,-59,2020-08-31,2020-09-03,PREMARKET
-Michaels,MIK,Thu before market,-83,2020-08-31,2020-09-03,PREMARKET
-Tilly's,TLYS,Thu after market,-26,2020-08-31,2020-09-03,AFH
-Lovesac,LOVE,Wed before market,-2,2020-09-08,2020-09-10,PREMARKET
-Lululemon,LULU,Tue after market,-25,2020-09-08,2020-09-09,AFH
-G-III,GIII,Wed before market,-46,2020-09-08,2020-09-10,PREMARKET
-American Eagle,AEO,Wed before market,-51,2020-09-08,2020-09-10,PREMARKET
-Casey's,CASY,Tue after market,-58,2020-09-08,2020-09-09,AFH
-Dave & Buster's,PLAY,Thu after market,-13,2020-09-08,2020-09-11,AFH
-Peloton,PTON,Thu after market,-19,2020-09-08,2020-09-11,AFH
-Chewy,CHWY,Thu after market,-90,2020-09-08,2020-09-11,AFH
-Kroger,KR,Fri before market,-90,2020-09-08,2020-09-12,PREMARKET
-Francesca's,FRAN,Tue before market,-24,2020-09-14,2020-09-15,PREMARKET
-Adobe,ADBE,Tue after market,+2,2020-09-14,2020-09-15,AFH
-FedEx,FDX,Tue after market,-61,2020-09-14,2020-09-15,AFH
-Logitech,LOGI,Mon after market,+2,2020-10-19,2020-10-19,AFH
-IBM,IBM,Mon after market,-23,2020-10-19,2020-10-19,AFH
-Snapchat,SNAP,Tue after market,+15,2020-10-19,2020-10-20,AFH
-iRobot,IRBT,Tue after market,0,2020-10-19,2020-10-20,AFH
-Netflix,NFLX,Tue after market,-45,2020-10-19,2020-10-20,AFH
-AutoNation,AN,Wed before market,-33,2020-10-19,2020-10-21,PREMARKET
-Genuine Parts,GPC,Thu before market,+43,2020-10-19,2020-10-22,PREMARKET
-Discover,DFS,Wed after market,+30,2020-10-19,2020-10-21,AFH
-Tesla,TSLA,Wed after market,+29,2020-10-19,2020-10-21,AFH
-5/3 Bank,FITB,Thu before market,+18,2020-10-19,2020-10-22,PREMARKET
-Alaska Air,ALK,Thu before market,+10,2020-10-19,2020-10-22,PREMARKET
-Southwest,LUV,Thu before market,+6,2020-10-19,2020-10-22,PREMARKET
-Netgear,NTGR,Wed after market,-5,2020-10-19,2020-10-21,AFH
-Coca Cola,KO,Thu before market,-22,2020-10-19,2020-10-22,PREMARKET
-Kimberly-Clark,KMB,Thu before market,-25,2020-10-19,2020-10-22,PREMARKET
-Chipotle,CMG,Wed after market,-25,2020-10-19,2020-10-21,AFH
-Citrix,CTXS,Thu before market,-32,2020-10-19,2020-10-22,PREMARKET
-Whirlpool,WHR,Wed after market,-39,2020-10-19,2020-10-21,AFH
-Snap-On,SNA,Thu before market,-61,2020-10-19,2020-10-22,PREMARKET
-Sirius XM,SIRI,Thu before market,-70,2020-10-19,2020-10-22,PREMARKET
-American Airlines,AAL,Thu before market,-82,2020-10-19,2020-10-22,PREMARKET
-AMEX,AXP,Fri before market,+6,2020-10-19,2020-10-23,PREMARKET
-BJ's,BJRI,Thu after market,-17,2020-10-19,2020-10-22,AFH
-Bloomin Brands,BLMN,Fri before market,-60,2020-10-19,2020-10-23,PREMARKET
-Mattel,MAT,Thu after market,-61,2020-10-19,2020-10-22,AFH
-Hasbro,HAS,Mon before market,-16,2020-10-19,2020-10-19,PREMARKET
-Canon,CAJ,Mon before market,-32,2020-10-19,2020-10-19,PREMARKET
-Principal Financial,PFG,Mon after market,+44,2020-10-26,2020-10-26,AFH
-Harley,HOG,Tue before market,+38,2020-10-26,2020-10-27,PREMARKET
-Black & Decker,SWK,Tue before market,+12,2020-10-26,2020-10-27,PREMARKET
-JetBlue,JBLU,Tue before market,-12,2020-10-26,2020-10-27,PREMARKET
-Crocs,CROX,Tue before market,-28,2020-10-26,2020-10-27,PREMARKET
-Sherwin-Williams,SHW,Tue before market,-42,2020-10-26,2020-10-27,PREMARKET
-Restaurant Brands,QSR,Tue before market,-47,2020-10-26,2020-10-27,PREMARKET
-Polaris,PII,Tue before market,-61,2020-10-26,2020-10-27,PREMARKET
-Denny's,DENN,Tue after market,+6,2020-10-26,2020-10-27,AFH
-AFLAC,AFL,Tue after market,0,2020-10-26,2020-10-27,AFH
-Hawaiian Holdings,HA,Tue after market,-21,2020-10-26,2020-10-27,AFH
-UPS,UPS,Wed before market,-29,2020-10-26,2020-10-28,PREMARKET
-Brinker,EAT,Wed before market,-31,2020-10-26,2020-10-28,PREMARKET
-Anthem,ANTM,Wed before market,-49,2020-10-26,2020-10-28,PREMARKET
-Churchill Downs,CHDN,Wed after market,+85,2020-10-26,2020-10-28,AFH
-Spotify,SPOT,Thu before market,+44,2020-10-26,2020-10-29,PREMARKET
-Dunkin Brands,DNKN,Thu before market,+37,2020-10-26,2020-10-29,PREMARKET
-Church & Dwight,CHD,Thu before market,+14,2020-10-26,2020-10-29,PREMARKET
-Pinterest,PINS,Wed after market,+12,2020-10-26,2020-10-28,AFH
-Boot Barn,BOOT,Wed after market,+4,2020-10-26,2020-10-28,AFH
-Keurig Dr Pepper,KDP,Thu before market,+4,2020-10-26,2020-10-29,PREMARKET
-Visa,V,Wed after market,-6,2020-10-26,2020-10-28,AFH
-Texas Roadhouse,TXRH,Wed after market,-9,2020-10-26,2020-10-28,AFH
-Spirit Air,SAVE,Wed after market,-13,2020-10-26,2020-10-28,AFH
-Etsy,ETSY,Wed after market,-19,2020-10-26,2020-10-28,AFH
-Polo,RL,Thu before market,-19,2020-10-26,2020-10-29,PREMARKET
-Sprouts,SFM,Wed after market,-20,2020-10-26,2020-10-28,AFH
-AB Inbev,BUD,Thu before market,-32,2020-10-26,2020-10-29,PREMARKET
-Molson Coors,TAP,Thu before market,-39,2020-10-26,2020-10-29,PREMARKET
-eBay,EBAY,Wed after market,-40,2020-10-26,2020-10-28,AFH
-Ford,F,Wed after market,-55,2020-10-26,2020-10-28,AFH
-GrubHub,GRUB,Wed after market,-56,2020-10-26,2020-10-28,AFH
-Kellogg,K,Thu before market,-56,2020-10-26,2020-10-29,PREMARKET
-Royal Caribbean,RCL,Thu before market,-58,2020-10-26,2020-10-29,PREMARKET
-Coach,TPR,Thu before market,-61,2020-10-26,2020-10-29,PREMARKET
-Tempur Sealy,TPX,Thu before market,-84,2020-10-26,2020-10-29,PREMARKET
-Trupanion,TRUP,Thu after market,+74,2020-10-26,2020-10-29,AFH
-Under Armour,UAA,Fri before market,+23,2020-10-26,2020-10-30,PREMARKET
-Ethan Allen,ETH,Thu after market,+13,2020-10-26,2020-10-29,AFH
-Skechers,SKX,Thu after market,+6,2020-10-26,2020-10-29,AFH
-Starbucks,SBUX,Thu after market,-1,2020-10-26,2020-10-29,AFH
-Phillips 66,PSX,Fri before market,-3,2020-10-26,2020-10-30,PREMARKET
-Facebook,FB,Thu after market,-7,2020-10-26,2020-10-29,AFH
-Cheesecake Factory,CAKE,Thu after market,-12,2020-10-26,2020-10-29,AFH
-Altria,MO,Fri before market,-17,2020-10-26,2020-10-30,PREMARKET
-Amazon,AMZN,Thu after market,-21,2020-10-26,2020-10-29,AFH
-Apple,AAPL,Thu after market,-23,2020-10-26,2020-10-29,AFH
-Ruth's Group,RUTH,Fri before market,-36,2020-10-26,2020-10-30,PREMARKET
-Weight Watchers,WW,Thu after market,-36,2020-10-26,2020-10-29,AFH
-Carvana,CVNA,Thu after market,-41,2020-10-26,2020-10-29,AFH
-Chevron,CVX,Fri before market,-45,2020-10-26,2020-10-30,PREMARKET
-SkyWest,SKYW,Thu after market,-60,2020-10-26,2020-10-29,AFH
-Shake Shack,SHAK,Thu after market,-85,2020-10-26,2020-10-29,AFH
-Newell,NWL,Fri before market,-89,2020-10-26,2020-10-30,PREMARKET
-Marathon,MPC,Mon before market,+25,2020-10-26,2020-10-26,PREMARKET
-Wingstop,WING,Mon before market,-43,2020-10-26,2020-10-26,PREMARKET
-Clorox,CLX,Mon before market,-71,2020-10-26,2020-10-26,PREMARKET
-Medifast,MED,Mon after market,+68,2020-11-02,2020-11-02,AFH
-Pandora Jewelry,PANDY,Tue before market,-2,2020-11-02,2020-11-03,PREMARKET
-PayPal,PYPL,Mon after market,-34,2020-11-02,2020-11-02,AFH
-Wayfair,W,Tue before market,-89,2020-11-02,2020-11-03,PREMARKET
-BMW,BMWYY,Wed before market,-16,2020-11-02,2020-11-04,PREMARKET
-Hilton,HLT,Wed before market,-17,2020-11-02,2020-11-04,PREMARKET
-Wendy's,WEN,Wed before market,-31,2020-11-02,2020-11-04,PREMARKET
-Amerco,UHAL,Wed after market,+73,2020-11-02,2020-11-04,AFH
-Hyatt,H,Wed after market,+17,2020-11-02,2020-11-04,AFH
-Hanes,HBI,Thu before market,+3,2020-11-02,2020-11-05,PREMARKET
-GM,GM,Thu before market,-5,2020-11-02,2020-11-05,PREMARKET
-Godaddy,GDDY,Wed after market,-14,2020-11-02,2020-11-04,AFH
-Fitbit,FIT,Wed after market,-16,2020-11-02,2020-11-04,AFH
-Papa John's,PZZA,Thu before market,-17,2020-11-02,2020-11-05,PREMARKET
-Expedia,EXPE,Wed after market,-25,2020-11-02,2020-11-04,AFH
-Allstate,ALL,Wed after market,-49,2020-11-02,2020-11-04,AFH
-Alibaba,BABA,Thu before market,-58,2020-11-02,2020-11-05,PREMARKET
-Fiesta Group,FRGI,Wed after market,-60,2020-11-02,2020-11-04,AFH
-YETI,YETI,Thu before market,-61,2020-11-02,2020-11-05,PREMARKET
-US Cellular,USM,Thu after market,+75,2020-11-02,2020-11-05,AFH
-Yelp,YELP,Thu after market,+40,2020-11-02,2020-11-05,AFH
-Monster,MNST,Thu after market,+30,2020-11-02,2020-11-05,AFH
-Chuy's,CHUY,Thu after market,+2,2020-11-02,2020-11-05,AFH
-Uber,UBER,Thu after market,0,2020-11-02,2020-11-05,AFH
-Angie's List,ANGI,Thu after market,-2,2020-11-02,2020-11-05,AFH
-Dropbox,DBX,Thu after market,-3,2020-11-02,2020-11-05,AFH
-Groupon,GRPN,Thu after market,-3,2020-11-02,2020-11-05,AFH
-Arlo Technologies,ARLO,Thu after market,-6,2020-11-02,2020-11-05,AFH
-Marriott,MAR,Fri before market,-6,2020-11-02,2020-11-06,PREMARKET
-Square,SQ,Thu after market,-8,2020-11-02,2020-11-05,AFH
-Planet Fitness,PLNT,Thu after market,-10,2020-11-02,2020-11-05,AFH
-Peloton,PTON,Thu after market,-12,2020-11-02,2020-11-05,AFH
-GoPro,GPRO,Thu after market,-24,2020-11-02,2020-11-05,AFH
-Toyota,TM,Fri before market,-24,2020-11-02,2020-11-06,PREMARKET
-CVS,CVS,Fri before market,-37,2020-11-02,2020-11-06,PREMARKET
-Hostess,TWNK,Thu after market,-47,2020-11-02,2020-11-05,AFH
-Priceline,BKNG,Thu after market,-50,2020-11-02,2020-11-05,AFH
-Take-Two,TTWO,Thu after market,-59,2020-11-02,2020-11-05,AFH
-Turtle Beach,HEAR,Thu after market,-61,2020-11-02,2020-11-05,AFH
-Roku,ROKU,Thu after market,-82,2020-11-02,2020-11-05,AFH
-McDonalds,MCD,Mon before market,+9,2020-11-02,2020-11-02,PREMARKET
-Tilray,TLRY,Mon after market,+50,2020-11-09,2020-11-09,AFH
-Adidas,ADDYY,Tue before market,+20,2020-11-09,2020-11-10,PREMARKET
-Callaway,ELY,Mon after market,+11,2020-11-09,2020-11-09,AFH
-Advance Auto,AAP,Tue before market,+3,2020-11-09,2020-11-10,PREMARKET
-Beyond Meat,BYND,Mon after market,+1,2020-11-09,2020-11-09,AFH
-ZAGG,ZAGG,Mon after market,0,2020-11-09,2020-11-09,AFH
-Lyft,LYFT,Tue after market,+46,2020-11-09,2020-11-10,AFH
-Kodak,KODK,Tue after market,+23,2020-11-09,2020-11-10,AFH
-Wix,WIX,Thu before market,-26,2020-11-09,2020-11-12,PREMARKET
-Revolve,RVLV,Wed after market,-90,2020-11-09,2020-11-11,AFH
-Farfetch,FTCH,Thu after market,-84,2020-11-09,2020-11-12,AFH
-Kohl's,KSS,Tue before market,-7,2020-11-16,2020-11-17,PREMARKET
-Wal-Mart,WMT,Tue before market,-22,2020-11-16,2020-11-17,PREMARKET
-Home Depot,HD,Tue before market,-59,2020-11-16,2020-11-17,PREMARKET
-Target,TGT,Wed before market,-31,2020-11-16,2020-11-18,PREMARKET
-Lowe's,LOW,Wed before market,-50,2020-11-16,2020-11-18,PREMARKET
-TJX,TJX,Wed before market,-60,2020-11-16,2020-11-18,PREMARKET
-Jack in the Box,JACK,Wed after market,+59,2020-11-16,2020-11-18,AFH
-Nvidia,NVDA,Wed after market,+42,2020-11-16,2020-11-18,AFH
-L Brands,LB,Wed after market,-29,2020-11-16,2020-11-18,AFH
-Shoe Carnival,SCVL,Wed after market,-27,2020-11-16,2020-11-18,AFH
-Sonos,SONO,Wed after market,-43,2020-11-16,2020-11-18,AFH
-Macy's,M,Thu before market,-55,2020-11-16,2020-11-19,PREMARKET
-Intuit,INTU,Thu after market,-14,2020-11-16,2020-11-19,AFH
-Footlocker,FL,Fri before market,-36,2020-11-16,2020-11-20,PREMARKET
-Ross Stores,ROST,Thu after market,-86,2020-11-16,2020-11-19,AFH
-Best Buy,BBY,Tue before market,+45,2020-11-23,2020-11-24,PREMARKET
-Smuckers,SJM,Tue before market,+39,2020-11-23,2020-11-24,PREMARKET
-Abercrombie,ANF,Tue before market,+33,2020-11-23,2020-11-24,PREMARKET
-Urban Outfitters,URBN,Mon after market,-5,2020-11-23,2020-11-23,AFH
-Dollar Tree,DLTR,Tue before market,-7,2020-11-23,2020-11-24,PREMARKET
-Burlington,BURL,Tue before market,-64,2020-11-23,2020-11-24,PREMARKET
-Autodesk,ADSK,Tue after market,-19,2020-11-23,2020-11-24,AFH
-Gap,GPS,Tue after market,-19,2020-11-23,2020-11-24,AFH
-American Eagle,AEO,Tue after market,-22,2020-11-23,2020-11-24,AFH
-Deere,DE,Wed before market,-29,2020-11-23,2020-11-25,PREMARKET
-Nordstrom,JWN,Tue after market,-30,2020-11-23,2020-11-24,AFH
-Zoom,ZM,Mon after market,-96,2020-11-30,2020-11-30,AFH
-At Home,HOME,Tue after market,-13,2020-11-30,2020-12-01,AFH
-Salesforce,CRM,Tue after market,-40,2020-11-30,2020-12-01,AFH
-Lands End,LE,Thu before market,+64,2020-11-30,2020-12-03,PREMARKET
-Five Below,FIVE,Wed after market,+62,2020-11-30,2020-12-02,AFH
-Signet Jewelers,SIG,Thu before market,+9,2020-11-30,2020-12-03,PREMARKET
-Build-A-Bear,BBW,Thu before market,+5,2020-11-30,2020-12-03,PREMARKET
-Express,EXPR,Thu before market,-6,2020-11-30,2020-12-03,PREMARKET
-Michaels,MIK,Thu before market,-8,2020-11-30,2020-12-03,PREMARKET
-Dollar General,DG,Thu before market,-42,2020-11-30,2020-12-03,PREMARKET
-Kroger,KR,Thu before market,-79,2020-11-30,2020-12-03,PREMARKET
-Ollie's,OLLI,Thu after market,+53,2020-11-30,2020-12-03,AFH
-Big Lots,BIG,Fri before market,+13,2020-11-30,2020-12-04,PREMARKET
-Ulta,ULTA,Thu after market,-2,2020-11-30,2020-12-03,AFH
-Tilly's,TLYS,Thu after market,-38,2020-11-30,2020-12-03,AFH
-Casey's,CASY,Mon after market,+16,2020-12-07,2020-12-07,AFH
-G-III,GIII,Tue before market,-5,2020-12-07,2020-12-08,PREMARKET
-HR Block,HRB,Tue before market,-17,2020-12-07,2020-12-08,PREMARKET
-AutoZone,AZO,Tue before market,-38,2020-12-07,2020-12-08,PREMARKET
-Stitch Fix,SFIX,Mon after market,-49,2020-12-07,2020-12-07,AFH
-Chewy,CHWY,Tue after market,+27,2020-12-07,2020-12-08,AFH
-Lovesac,LOVE,Wed before market,-9,2020-12-07,2020-12-09,PREMARKET
-Designer Brands,DBI,Wed before market,-43,2020-12-07,2020-12-09,PREMARKET
-Campbell Soup,CPB,Wed before market,-46,2020-12-07,2020-12-09,PREMARKET
-Adobe,ADBE,Wed after market,-36,2020-12-07,2020-12-09,AFH
-Dave & Buster's,PLAY,Thu after market,+51,2020-12-07,2020-12-10,AFH
-Lululemon,LULU,Thu after market,+9,2020-12-07,2020-12-10,AFH
-Costco,COST,Thu after market,+6,2020-12-07,2020-12-10,AFH
-Rite Aid,RAD,Thu before market,+27,2020-12-14,2020-12-17,PREMARKET
-Darden,DRI,Fri before market,+33,2020-12-14,2020-12-18,PREMARKET
-FedEx,FDX,Thu after market,-68,2020-12-14,2020-12-17,AFH
-Nike,NKE,Fri after market,-13,2020-12-14,2020-12-18,AFH
-Carmax,KMX,Tue before market,-51,2021-01-07,2021-01-08,PREMARKET
-Walgeens,WBA,Thu before market,+11,2021-01-07,2021-01-10,PREMARKET
-Constellation,STZ,Thu before market,-19,2021-01-07,2021-01-10,PREMARKET
-Bed Bath,BBBY,Thu before market,-23,2021-01-07,2021-01-10,PREMARKET
-U.S. Bank,USB,Wed before market,+1,2021-01-19,2021-01-21,PREMARKET
-Netflix,NFLX,Tue after market,-37,2021-01-19,2021-01-20,AFH
-Discover,DFS,Wed after market,-3,2021-01-19,2021-01-21,AFH
-United Air,UAL,Wed after market,-4,2021-01-19,2021-01-21,AFH
-Citrix,CTXS,Thu before market,-19,2021-01-19,2021-01-22,PREMARKET
-5/3 Bank,FITB,Thu before market,-72,2021-01-19,2021-01-22,PREMARKET
-IBM,IBM,Thu after market,-10,2021-01-19,2021-01-22,AFH
-Kimberly-Clark,KMB,Mon before market,+5,2021-01-19,2021-01-19,PREMARKET
-Harley,HOG,Tue before market,+39,2021-02-01,2021-02-02,PREMARKET
-Marathon,MPC,Tue before market,+25,2021-02-01,2021-02-02,PREMARKET
-UPS,UPS,Tue before market,-32,2021-02-01,2021-02-02,PREMARKET
-Alibaba,BABA,Tue before market,-53,2021-02-01,2021-02-02,PREMARKET
-Sirius XM,SIRI,Tue before market,-69,2021-02-01,2021-02-02,PREMARKET
-Spotify,SPOT,Wed before market,+50,2021-02-01,2021-02-03,PREMARKET
-Amazon,AMZN,Tue after market,-28,2021-02-01,2021-02-02,AFH
-Chipotle,CMG,Tue after market,-28,2021-02-01,2021-02-02,AFH
-Amerco,UHAL,Wed after market,+70,2021-02-01,2021-02-03,AFH
-Angie's List,ANGI,Wed after market,+47,2021-02-01,2021-02-03,AFH
-AFLAC,AFL,Wed after market,0,2021-02-01,2021-02-03,AFH
-Pandora Jewelry,PANDY,Thu before market,-3,2021-02-01,2021-02-04,PREMARKET
-Canada Goose,GOOS,Thu before market,-4,2021-02-01,2021-02-04,PREMARKET
-Netgear,NTGR,Wed after market,-6,2021-02-01,2021-02-03,AFH
-Polo,RL,Thu before market,-9,2021-02-01,2021-02-04,PREMARKET
-Yum,YUM,Thu before market,-33,2021-02-01,2021-02-04,PREMARKET
-eBay,EBAY,Wed after market,-45,2021-02-01,2021-02-03,AFH
-PayPal,PYPL,Wed after market,-47,2021-02-01,2021-02-03,AFH
-Allstate,ALL,Wed after market,-48,2021-02-01,2021-02-03,AFH
-Snap-On,SNA,Thu before market,-57,2021-02-01,2021-02-04,PREMARKET
-GrubHub,GRUB,Wed after market,-65,2021-02-01,2021-02-03,AFH
-Coach,TPR,Thu before market,-69,2021-02-01,2021-02-04,PREMARKET
-Clorox,CLX,Thu before market,-71,2021-02-01,2021-02-04,PREMARKET
-Pinterest,PINS,Thu after market,+17,2021-02-01,2021-02-04,AFH
-Snapchat,SNAP,Thu after market,+12,2021-02-01,2021-02-04,AFH
-Skechers,SKX,Thu after market,+8,2021-02-01,2021-02-04,AFH
-GoPro,GPRO,Thu after market,-15,2021-02-01,2021-02-04,AFH
-Peloton,PTON,Thu after market,-16,2021-02-01,2021-02-04,AFH
-Ford,F,Thu after market,-40,2021-02-01,2021-02-04,AFH
-SkyWest,SKYW,Thu after market,-75,2021-02-01,2021-02-04,AFH
-Hasbro,HAS,Mon before market,-17,2021-02-01,2021-02-01,PREMARKET
-Take-Two,TTWO,Mon after market,+47,2021-02-08,2021-02-08,AFH
-Canopy Growth,CGC,Tue before market,+14,2021-02-08,2021-02-09,PREMARKET
-Hanes,HBI,Tue before market,-16,2021-02-08,2021-02-09,PREMARKET
-GM,GM,Wed before market,+19,2021-02-08,2021-02-10,PREMARKET
-Toyota,TM,Wed before market,+1,2021-02-08,2021-02-10,PREMARKET
-Coca Cola,KO,Wed before market,-5,2021-02-08,2021-02-10,PREMARKET
-Yelp,YELP,Tue after market,-12,2021-02-08,2021-02-09,AFH
-Under Armour,UAA,Wed before market,-15,2021-02-08,2021-02-10,PREMARKET
-Mattel,MAT,Tue after market,-16,2021-02-08,2021-02-09,AFH
-Lyft,LYFT,Tue after market,-54,2021-02-08,2021-02-09,AFH
-Equifax,EFX,Wed after market,+75,2021-02-08,2021-02-10,AFH
-Western Union,WU,Wed after market,+57,2021-02-08,2021-02-10,AFH
-Callaway,ELY,Wed after market,+32,2021-02-08,2021-02-10,AFH
-Tempur Sealy,TPX,Thu before market,+32,2021-02-08,2021-02-11,PREMARKET
-Restaurant Brands,QSR,Thu before market,+28,2021-02-08,2021-02-11,PREMARKET
-Kellogg,K,Thu before market,+10,2021-02-08,2021-02-11,PREMARKET
-Uber,UBER,Wed after market,0,2021-02-08,2021-02-10,AFH
-YETI,YETI,Thu before market,-4,2021-02-08,2021-02-11,PREMARKET
-Molson Coors,TAP,Thu before market,-7,2021-02-08,2021-02-11,PREMARKET
-Sonos,SONO,Wed after market,-9,2021-02-08,2021-02-10,AFH
-iRobot,IRBT,Wed after market,-11,2021-02-08,2021-02-10,AFH
-PepsiCo,PEP,Thu before market,-16,2021-02-08,2021-02-11,PREMARKET
-O'Reilly Auto,ORLY,Wed after market,-63,2021-02-08,2021-02-10,AFH
-Trupanion,TRUP,Wed after market,-68,2021-02-08,2021-02-10,AFH
-Newell,NWL,Fri before market,+51,2021-02-08,2021-02-12,PREMARKET
-BJ's,BJRI,Thu after market,+14,2021-02-08,2021-02-11,AFH
-Expedia,EXPE,Thu after market,+7,2021-02-08,2021-02-11,AFH
-Godaddy,GDDY,Thu after market,+4,2021-02-08,2021-02-11,AFH
-CVS,CVS,Tue before market,+41,2021-02-08,2021-02-09,PREMARKET
-AutoNation,AN,Tue before market,+5,2021-02-08,2021-02-09,PREMARKET
-Advance Auto,AAP,Tue before market,-61,2021-02-08,2021-02-09,PREMARKET
-Hilton,HLT,Wed before market,+8,2021-02-16,2021-02-18,PREMARKET
-Denny's,DENN,Tue after market,+1,2021-02-16,2021-02-17,AFH
-Genuine Parts,GPC,Wed before market,-6,2021-02-16,2021-02-18,PREMARKET
-Wingstop,WING,Wed before market,-13,2021-02-16,2021-02-18,PREMARKET
-Wix,WIX,Wed before market,-24,2021-02-16,2021-02-18,PREMARKET
-Kering,PPRUY,Wed before market,-30,2021-02-16,2021-02-18,PREMARKET
-Hyatt,H,Wed after market,+54,2021-02-16,2021-02-18,AFH
-Wal-Mart,WMT,Thu before market,+44,2021-02-16,2021-02-19,PREMARKET
-Marriott,MAR,Thu before market,+36,2021-02-16,2021-02-19,PREMARKET
-Daimler,DDAIF,Thu before market,-19,2021-02-16,2021-02-19,PREMARKET
-Bloomin Brands,BLMN,Thu before market,-24,2021-02-16,2021-02-19,PREMARKET
-Cheesecake Factory,CAKE,Wed after market,-31,2021-02-16,2021-02-18,AFH
-Jack in the Box,JACK,Wed after market,-37,2021-02-16,2021-02-18,AFH
-Roku,ROKU,Thu after market,-11,2021-02-16,2021-02-19,AFH
-Dropbox,DBX,Thu after market,-20,2021-02-16,2021-02-19,AFH
-Deere,DE,Fri before market,-22,2021-02-16,2021-02-20,PREMARKET
-Texas Roadhouse,TXRH,Thu after market,-30,2021-02-16,2021-02-19,AFH
-Planet Fitness,PLNT,Thu after market,-42,2021-02-16,2021-02-19,AFH
-Abercrombie,ANF,Tue before market,+29,2021-03-01,2021-03-02,PREMARKET
-AutoZone,AZO,Tue before market,+12,2021-03-01,2021-03-02,PREMARKET
-Kohl's,KSS,Tue before market,-10,2021-03-01,2021-03-02,PREMARKET
-Zoom,ZM,Mon after market,-17,2021-03-01,2021-03-01,AFH
-Target,TGT,Tue before market,-40,2021-03-01,2021-03-02,PREMARKET
-Dollar Tree,DLTR,Wed before market,+9,2021-03-01,2021-03-03,PREMARKET
-Nordstrom,JWN,Tue after market,+8,2021-03-01,2021-03-02,AFH
-Urban Outfitters,URBN,Tue after market,-3,2021-03-01,2021-03-02,AFH
-Ross Stores,ROST,Tue after market,-8,2021-03-01,2021-03-02,AFH
-Wendy's,WEN,Wed before market,-25,2021-03-01,2021-03-03,PREMARKET
-Kroger,KR,Thu before market,+50,2021-03-01,2021-03-04,PREMARKET
-Burlington,BURL,Thu before market,+18,2021-03-01,2021-03-04,PREMARKET
-American Eagle,AEO,Wed after market,-6,2021-03-01,2021-03-03,AFH
-Michaels,MIK,Thu before market,-32,2021-03-01,2021-03-04,PREMARKET
-Turtle Beach,HEAR,Thu after market,+65,2021-03-01,2021-03-04,AFH
-Costco,COST,Thu after market,+23,2021-03-01,2021-03-04,AFH
-Big Lots,BIG,Fri before market,-20,2021-03-01,2021-03-05,PREMARKET
-Gap,GPS,Thu after market,-22,2021-03-01,2021-03-04,AFH
-Fiesta Group,FRGI,Thu after market,-29,2021-03-01,2021-03-04,AFH
-Ruth's Group,RUTH,Fri before market,-42,2021-03-01,2021-03-05,PREMARKET
-Chuy's,CHUY,Thu after market,-55,2021-03-01,2021-03-04,AFH
-Stitch Fix,SFIX,Mon after market,+18,2021-03-08,2021-03-08,AFH
-Casey's,CASY,Mon after market,-8,2021-03-08,2021-03-08,AFH
-The Children's Place,PLCE,Tue before market,-36,2021-03-08,2021-03-09,PREMARKET
-HR Block,HRB,Tue after market,+29,2021-03-08,2021-03-09,AFH
-Campbell Soup,CPB,Wed before market,-6,2021-03-08,2021-03-10,PREMARKET
-Express,EXPR,Wed before market,-12,2021-03-08,2021-03-10,PREMARKET
-Adidas,ADDYY,Wed before market,-46,2021-03-08,2021-03-10,PREMARKET
-Build-A-Bear,BBW,Wed before market,-86,2021-03-08,2021-03-10,PREMARKET
-Dollar General,DG,Thu before market,+9,2021-03-08,2021-03-11,PREMARKET
-Tilly's,TLYS,Thu after market,+48,2021-03-08,2021-03-11,AFH
-Ulta,ULTA,Thu after market,+39,2021-03-08,2021-03-11,AFH
-GameStop,GME,Tue after market,+67,2021-03-22,2021-03-23,AFH
-Adobe,ADBE,Tue after market,-7,2021-03-22,2021-03-23,AFH
-General Mills,GIS,Wed before market,-37,2021-03-22,2021-03-24,PREMARKET
-At Home,HOME,Tue after market,-73,2021-03-22,2021-03-23,AFH
-Darden,DRI,Thu before market,+1,2021-03-22,2021-03-25,PREMARKET
-Shoe Carnival,SCVL,Wed after market,-7,2021-03-22,2021-03-24,AFH
-Oxford Industries,OXM,Thu after market,+36,2021-03-22,2021-03-25,AFH
-IBM,IBM,Mon after market,+21,2021-04-19,2021-04-19,AFH
-United Air,UAL,Mon after market,+3,2021-04-19,2021-04-19,AFH
-5/3 Bank,FITB,Tue before market,-7,2021-04-19,2021-04-20,PREMARKET
-AutoNation,AN,Tue before market,-21,2021-04-19,2021-04-20,PREMARKET
-P&G,PG,Tue before market,-35,2021-04-19,2021-04-20,PREMARKET
-Xerox,XRX,Tue before market,-56,2021-04-19,2021-04-20,PREMARKET
-Harley,HOG,Tue before market,-65,2021-04-19,2021-04-20,PREMARKET
-Verizon,VZ,Wed before market,+7,2021-04-19,2021-04-21,PREMARKET
-Anthem,ANTM,Wed before market,-39,2021-04-19,2021-04-21,PREMARKET
-Netflix,NFLX,Tue after market,-65,2021-04-19,2021-04-20,AFH
-Netgear,NTGR,Wed after market,+21,2021-04-19,2021-04-21,AFH
-Snap-On,SNA,Thu before market,+12,2021-04-19,2021-04-22,PREMARKET
-American Airlines,AAL,Thu before market,+3,2021-04-19,2021-04-22,PREMARKET
-Churchill Downs,CHDN,Wed after market,+1,2021-04-19,2021-04-21,AFH
-Alaska Air,ALK,Thu before market,-5,2021-04-19,2021-04-22,PREMARKET
-Chipotle,CMG,Wed after market,-12,2021-04-19,2021-04-21,AFH
-Whirlpool,WHR,Wed after market,-14,2021-04-19,2021-04-21,AFH
-Southwest,LUV,Thu before market,-22,2021-04-19,2021-04-22,PREMARKET
-Genuine Parts,GPC,Thu before market,-36,2021-04-19,2021-04-22,PREMARKET
-Tractor Supply,TSCO,Thu before market,-36,2021-04-19,2021-04-22,PREMARKET
-Equifax,EFX,Wed after market,-38,2021-04-19,2021-04-21,AFH
-Travelzoo,TZOO,Thu before market,-41,2021-04-19,2021-04-22,PREMARKET
-Discover,DFS,Wed after market,-43,2021-04-19,2021-04-21,AFH
-AMEX,AXP,Fri before market,+34,2021-04-19,2021-04-23,PREMARKET
-WWE,WWE,Thu after market,-9,2021-04-19,2021-04-22,AFH
-Intel,INTC,Thu after market,-11,2021-04-19,2021-04-22,AFH
-Skechers,SKX,Thu after market,-15,2021-04-19,2021-04-22,AFH
-BJ's,BJRI,Thu after market,-39,2021-04-19,2021-04-22,AFH
-Kimberly-Clark,KMB,Fri before market,-48,2021-04-19,2021-04-23,PREMARKET
-Snapchat,SNAP,Thu after market,-59,2021-04-19,2021-04-22,AFH
-Mattel,MAT,Thu after market,-74,2021-04-19,2021-04-22,AFH
-Canon,CAJ,Mon before market,+2,2021-04-19,2021-04-19,PREMARKET
-Nautilus,NLS,Mon after market,+38,2021-05-10,2021-05-10,AFH
-Callaway,ELY,Mon after market,+24,2021-05-10,2021-05-10,AFH
-Affirm,AFRM,Mon after market,+12,2021-05-10,2021-05-10,AFH
-Hanes,HBI,Tue before market,-11,2021-05-10,2021-05-11,PREMARKET
-The RealReal,REAL,Mon after market,-18,2021-05-10,2021-05-10,AFH
-Wix,WIX,Wed before market,+25,2021-05-10,2021-05-12,PREMARKET
-fuboTV,FUBO,Tue after market,+18,2021-05-10,2021-05-11,AFH
-Wendy's,WEN,Wed before market,-10,2021-05-10,2021-05-12,PREMARKET
-Toyota,TM,Wed before market,-14,2021-05-10,2021-05-12,PREMARKET
-Opendoor,OPEN,Tue after market,-23,2021-05-10,2021-05-11,AFH
-Grocery Outlet,GO,Tue after market,-30,2021-05-10,2021-05-11,AFH
-B&G Foods,BGS,Tue after market,-53,2021-05-10,2021-05-11,AFH
-Celsius,CELH,Thu before market,+47,2021-05-10,2021-05-13,PREMARKET
-Vroom,VRM,Wed after market,+22,2021-05-10,2021-05-12,AFH
-Sonos,SONO,Wed after market,+18,2021-05-10,2021-05-12,AFH
-Canada Goose,GOOS,Thu before market,+11,2021-05-10,2021-05-13,PREMARKET
-Poshmark,POSH,Wed after market,-14,2021-05-10,2021-05-12,AFH
-YETI,YETI,Thu before market,-17,2021-05-10,2021-05-13,PREMARKET
-Alibaba,BABA,Thu before market,-30,2021-05-10,2021-05-13,PREMARKET
-Jack in the Box,JACK,Wed after market,-34,2021-05-10,2021-05-12,AFH
-Boot Barn,BOOT,Wed after market,-36,2021-05-10,2021-05-12,AFH
-New Relic,NEWR,Thu after market,+40,2021-05-10,2021-05-13,AFH
-DoorDash,DASH,Thu after market,-8,2021-05-10,2021-05-13,AFH
-Fiesta Group,FRGI,Thu after market,-8,2021-05-10,2021-05-13,AFH
-Airbnb,ABNB,Thu after market,-10,2021-05-10,2021-05-13,AFH
-Aurora,ACB,Thu after market,-16,2021-05-10,2021-05-13,AFH
-Farfetch,FTCH,Thu after market,-37,2021-05-10,2021-05-13,AFH
-Honda,HMC,Fri before market,-37,2021-05-10,2021-05-14,PREMARKET
-GoodRx,GDRX,Thu after market,-53,2021-05-10,2021-05-13,AFH
-Hostess,TWNK,Mon before market,-58,2021-05-10,2021-05-10,PREMARKET
-Home Depot,HD,Tue before market,+16,2021-05-17,2021-05-18,PREMARKET
-Macy's,M,Tue before market,-7,2021-05-17,2021-05-18,PREMARKET
-Walmart,WMT,Tue before market,-31,2021-05-17,2021-05-18,PREMARKET
-Lowe's,LOW,Wed before market,-5,2021-05-17,2021-05-19,PREMARKET
-Target,TGT,Wed before market,-18,2021-05-17,2021-05-19,PREMARKET
-Take-Two,TTWO,Tue after market,-25,2021-05-17,2021-05-18,AFH
-TJX,TJX,Wed before market,-34,2021-05-17,2021-05-19,PREMARKET
-L Brands,LB,Wed after market,+1,2021-05-17,2021-05-19,AFH
-Polo,RL,Thu before market,-7,2021-05-17,2021-05-20,PREMARKET
-Shoe Carnival,SCVL,Wed after market,-24,2021-05-17,2021-05-19,AFH
-Kohl's,KSS,Thu before market,-65,2021-05-17,2021-05-20,PREMARKET
-Footlocker,FL,Fri before market,+39,2021-05-17,2021-05-21,PREMARKET
-Ross Stores,ROST,Thu after market,-13,2021-05-17,2021-05-20,AFH
-Deere,DE,Fri before market,-16,2021-05-17,2021-05-21,PREMARKET
-Deckers,DECK,Thu after market,-37,2021-05-17,2021-05-20,AFH
-Cracker Barrel,CBRL,Tue before market,-35,2021-05-24,2021-05-25,PREMARKET
-AutoZone,AZO,Tue before market,-38,2021-05-24,2021-05-25,PREMARKET
-Build-A-Bear,BBW,Wed before market,+79,2021-05-24,2021-05-26,PREMARKET
-DSW,DBI,Wed before market,+21,2021-05-24,2021-05-26,PREMARKET
-Abercrombie,ANF,Wed before market,+17,2021-05-24,2021-05-26,PREMARKET
-Nordstrom,JWN,Tue after market,-16,2021-05-24,2021-05-25,AFH
-Intuit,INTU,Tue after market,-26,2021-05-24,2021-05-25,AFH
-Urban Outfitters,URBN,Tue after market,-28,2021-05-24,2021-05-25,AFH
-American Eagle,AEO,Wed after market,+21,2021-05-24,2021-05-26,AFH
-Amerco,UHAL,Wed after market,-35,2021-05-24,2021-05-26,AFH
-Best Buy,BBY,Thu before market,-37,2021-05-24,2021-05-27,PREMARKET
-Nvidia,NVDA,Wed after market,-38,2021-05-24,2021-05-26,AFH
-Dollar General,DG,Thu before market,-43,2021-05-24,2021-05-27,PREMARKET
-Burlington,BURL,Thu before market,-52,2021-05-24,2021-05-27,PREMARKET
-Dollar Tree,DLTR,Thu before market,-54,2021-05-24,2021-05-27,PREMARKET
-Elf Beauty,ELF,Wed after market,-58,2021-05-24,2021-05-26,AFH
-Ulta,ULTA,Thu after market,-6,2021-05-24,2021-05-27,AFH
-Big Lots,BIG,Fri before market,-12,2021-05-24,2021-05-28,PREMARKET
-Autodesk,ADSK,Thu after market,-23,2021-05-24,2021-05-27,AFH
-Costco,COST,Thu after market,-27,2021-05-24,2021-05-27,AFH
-Salesforce,CRM,Thu after market,-34,2021-05-24,2021-05-27,AFH
-Gap,GPS,Thu after market,-39,2021-05-24,2021-05-27,AFH
-Ollie's,OLLI,Thu after market,-47,2021-05-24,2021-05-27,AFH
-Advance Auto,AAP,Wed before market,+63,2021-06-01,2021-06-03,PREMARKET
-Lands End,LE,Wed before market,+37,2021-06-01,2021-06-03,PREMARKET
-Zoom,ZM,Tue after market,-79,2021-06-01,2021-06-02,AFH
-Express,EXPR,Thu before market,+27,2021-06-01,2021-06-04,PREMARKET
-Smuckers,SJM,Thu before market,-39,2021-06-01,2021-06-04,PREMARKET
-Lululemon,LULU,Thu after market,+6,2021-06-01,2021-06-04,AFH
-Tilly's,TLYS,Thu after market,-32,2021-06-01,2021-06-04,AFH
-Five Below,FIVE,Thu after market,-42,2021-06-01,2021-06-04,AFH
-Stitch Fix,SFIX,Mon after market,-42,2021-06-07,2021-06-07,AFH
-Casey's Stores,CASY,Tue after market,+12,2021-06-07,2021-06-08,AFH
-Campbell Soup,CPB,Wed before market,-52,2021-06-07,2021-06-09,PREMARKET
-Lovesac,LOVE,Wed before market,-54,2021-06-07,2021-06-09,PREMARKET
-Signet Jewelers,SIG,Thu before market,+4,2021-06-07,2021-06-10,PREMARKET
-Oxford,OXM,Wed after market,-2,2021-06-07,2021-06-09,AFH
-GameStop,GME,Wed after market,-79,2021-06-07,2021-06-09,AFH
-Dave & Buster's,PLAY,Thu after market,+24,2021-06-07,2021-06-10,AFH
-Chewy,CHWY,Thu after market,-43,2021-06-07,2021-06-10,AFH
-HR Block,HRB,Tue after market,-2,2021-06-14,2021-06-15,AFH
-Kroger,KR,Thu before market,-29,2021-06-14,2021-06-17,PREMARKET
-Adobe,ADBE,Thu after market,-24,2021-06-14,2021-06-17,AFH
-Darden,DRI,Thu before market,-15,2021-06-21,2021-06-24,PREMARKET
-Rite Aid,RAD,Thu before market,-37,2021-06-21,2021-06-24,PREMARKET
-Carmax,KMX,Fri before market,+55,2021-06-21,2021-06-25,PREMARKET
-Nike,NKE,Thu after market,+1,2021-06-21,2021-06-24,AFH
-FedEx,FDX,Thu after market,-47,2021-06-21,2021-06-24,AFH
-IBM,IBM,Mon after market,-7,2021-07-19,2021-07-19,AFH
-Ally,ALLY,Tue before market,-66,2021-07-19,2021-07-20,PREMARKET
-Travelzoo,TZOO,Wed before market,+47,2021-07-19,2021-07-21,PREMARKET
-Harley,HOG,Wed before market,+2,2021-07-19,2021-07-21,PREMARKET
-United Air,UAL,Tue after market,-7,2021-07-19,2021-07-20,AFH
-Anthem,ANTM,Wed before market,-10,2021-07-19,2021-07-21,PREMARKET
-Verizon,VZ,Wed before market,-12,2021-07-19,2021-07-21,PREMARKET
-Coca Cola,KO,Wed before market,-28,2021-07-19,2021-07-21,PREMARKET
-Chipotle,CMG,Tue after market,-31,2021-07-19,2021-07-20,AFH
-Netflix,NFLX,Tue after market,-68,2021-07-19,2021-07-20,AFH
-Alaska Air,ALK,Thu before market,+51,2021-07-19,2021-07-22,PREMARKET
-Equifax,EFX,Wed after market,+45,2021-07-19,2021-07-21,AFH
-Southwest,LUV,Thu before market,+43,2021-07-19,2021-07-22,PREMARKET
-5/3 Bank,FITB,Thu before market,+32,2021-07-19,2021-07-22,PREMARKET
-American Airlines,AAL,Thu before market,+29,2021-07-19,2021-07-22,PREMARKET
-Domino's,DPZ,Thu before market,+11,2021-07-19,2021-07-22,PREMARKET
-Netgear,NTGR,Wed after market,-27,2021-07-19,2021-07-21,AFH
-Genuine Parts,GPC,Thu before market,-31,2021-07-19,2021-07-22,PREMARKET
-Discover,DFS,Wed after market,-33,2021-07-19,2021-07-21,AFH
-Snap-On,SNA,Thu before market,-34,2021-07-19,2021-07-22,PREMARKET
-Crocs,CROX,Thu before market,-42,2021-07-19,2021-07-22,PREMARKET
-Whirlpool,WHR,Wed after market,-59,2021-07-19,2021-07-21,AFH
-Kimberly-Clark,KMB,Fri before market,-3,2021-07-19,2021-07-23,PREMARKET
-Verisign,VRSN,Thu after market,-7,2021-07-19,2021-07-22,AFH
-Skechers,SKX,Thu after market,-9,2021-07-19,2021-07-22,AFH
-AMEX,AXP,Fri before market,-32,2021-07-19,2021-07-23,PREMARKET
-Intel,INTC,Thu after market,-49,2021-07-19,2021-07-22,AFH
-Snapchat,SNAP,Thu after market,-55,2021-07-19,2021-07-22,AFH
-JetBlue,JBLU,Tue before market,+40,2021-07-26,2021-07-27,PREMARKET
-Sherwin-Williams,SHW,Tue before market,+5,2021-07-26,2021-07-27,PREMARKET
-SiriusXM,SIRI,Tue before market,-5,2021-07-26,2021-07-27,PREMARKET
-Xerox,XRX,Tue before market,-5,2021-07-26,2021-07-27,PREMARKET
-Polaris,PII,Tue before market,-15,2021-07-26,2021-07-27,PREMARKET
-Black & Decker,SWK,Tue before market,-23,2021-07-26,2021-07-27,PREMARKET
-UPS,UPS,Tue before market,-35,2021-07-26,2021-07-27,PREMARKET
-Logitech,LOGI,Mon after market,-46,2021-07-26,2021-07-26,AFH
-Tesla,TSLA,Mon after market,-49,2021-07-26,2021-07-26,AFH
-Hawaiian Holdings,HA,Tue after market,+68,2021-07-26,2021-07-27,AFH
-Spotify,SPOT,Wed before market,+34,2021-07-26,2021-07-28,PREMARKET
-Canon,CAJ,Wed before market,+18,2021-07-26,2021-07-28,PREMARKET
-Mattel,MAT,Tue after market,+15,2021-07-26,2021-07-27,AFH
-McDonald's,MCD,Wed before market,+15,2021-07-26,2021-07-28,PREMARKET
-Wingstop,WING,Wed before market,+11,2021-07-26,2021-07-28,PREMARKET
-Apple,AAPL,Tue after market,+9,2021-07-26,2021-07-27,AFH
-AMD,AMD,Tue after market,+3,2021-07-26,2021-07-27,AFH
-Starbucks,SBUX,Tue after market,-5,2021-07-26,2021-07-27,AFH
-Cheesecake Factory,CAKE,Tue after market,-9,2021-07-26,2021-07-27,AFH
-Garmin,GRMN,Wed before market,-9,2021-07-26,2021-07-28,PREMARKET
-ADP,ADP,Wed before market,-12,2021-07-26,2021-07-28,PREMARKET
-Microsoft,MSFT,Tue after market,-12,2021-07-26,2021-07-27,AFH
-Google,GOOGL,Tue after market,-15,2021-07-26,2021-07-27,AFH
-Principal Financial,PFG,Tue after market,-15,2021-07-26,2021-07-27,AFH
-Mondelez,MDLZ,Tue after market,-17,2021-07-26,2021-07-27,AFH
-Tilray,TLRY,Wed before market,-43,2021-07-26,2021-07-28,PREMARKET
-Visa,V,Tue after market,-43,2021-07-26,2021-07-27,AFH
-Shopify,SHOP,Wed before market,-57,2021-07-26,2021-07-28,PREMARKET
-AB Inbev,BUD,Thu before market,+49,2021-07-26,2021-07-29,PREMARKET
-Ford,F,Wed after market,+49,2021-07-26,2021-07-28,AFH
-Allegiant Travel,ALGT,Wed after market,+41,2021-07-26,2021-07-28,AFH
-O'Reilly Auto,ORLY,Wed after market,+29,2021-07-26,2021-07-28,AFH
-Hilton,HLT,Thu before market,+28,2021-07-26,2021-07-29,PREMARKET
-AFLAC,AFL,Wed after market,+23,2021-07-26,2021-07-28,AFH
-Wyndham,WH,Wed after market,+22,2021-07-26,2021-07-28,AFH
-Coors,TAP,Thu before market,+18,2021-07-26,2021-07-29,PREMARKET
-Overstock.com,OSTK,Thu before market,+14,2021-07-26,2021-07-29,PREMARKET
-Hanes,HBI,Thu before market,+12,2021-07-26,2021-07-29,PREMARKET
-Facebook,FB,Wed after market,+8,2021-07-26,2021-07-28,AFH
-Tempur Sealy,TPX,Thu before market,+6,2021-07-26,2021-07-29,PREMARKET
-iRobot,IRBT,Wed after market,-1,2021-07-26,2021-07-28,AFH
-Keurig Dr Pepper,KDP,Thu before market,-2,2021-07-26,2021-07-29,PREMARKET
-PayPal,PYPL,Wed after market,-4,2021-07-26,2021-07-28,AFH
-Altria,MO,Thu before market,-5,2021-07-26,2021-07-29,PREMARKET
-Churchill Downs,CHDN,Wed after market,-6,2021-07-26,2021-07-28,AFH
-Yum,YUM,Thu before market,-17,2021-07-26,2021-07-29,PREMARKET
-Citrix,CTXS,Thu before market,-29,2021-07-26,2021-07-29,PREMARKET
-Align Technology,ALGN,Wed after market,-49,2021-07-26,2021-07-28,AFH
-SkyWest,SKYW,Thu after market,+72,2021-07-26,2021-07-29,AFH
-Moneygram,MGI,Fri before market,+68,2021-07-26,2021-07-30,PREMARKET
-Trivago,TRVG,Thu after market,+48,2021-07-26,2021-07-29,AFH
-Bloomin' Brands,BLMN,Fri before market,+26,2021-07-26,2021-07-30,PREMARKET
-Chevron,CVX,Fri before market,+25,2021-07-26,2021-07-30,PREMARKET
-Upwork,UPWK,Thu after market,+18,2021-07-26,2021-07-29,AFH
-T-Mobile,TMUS,Thu after market,+17,2021-07-26,2021-07-29,AFH
-Texas Roadhouse,TXRH,Thu after market,+13,2021-07-26,2021-07-29,AFH
-P&G,PG,Fri before market,+10,2021-07-26,2021-07-30,PREMARKET
-WWE,WWE,Thu after market,+3,2021-07-26,2021-07-29,AFH
-Amazon,AMZN,Thu after market,-4,2021-07-26,2021-07-29,AFH
-Restaurant Brands,QSR,Fri before market,-7,2021-07-26,2021-07-30,PREMARKET
-BJ's,BJRI,Thu after market,-9,2021-07-26,2021-07-29,AFH
-Church & Dwight,CHD,Fri before market,-18,2021-07-26,2021-07-30,PREMARKET
-Colgate,CL,Fri before market,-19,2021-07-26,2021-07-30,PREMARKET
-Newell,NWL,Fri before market,-19,2021-07-26,2021-07-30,PREMARKET
-Pinterest,PINS,Thu after market,-19,2021-07-26,2021-07-29,AFH
-Deckers,DECK,Thu after market,-23,2021-07-26,2021-07-29,AFH
-Phillips 66,PSX,Tue before market,+75,2021-08-02,2021-08-03,PREMARKET
-Polo,RL,Tue before market,+54,2021-08-02,2021-08-03,PREMARKET
-Blue Apron,APRN,Tue before market,+15,2021-08-02,2021-08-03,PREMARKET
-Marriott,MAR,Tue before market,+5,2021-08-02,2021-08-03,PREMARKET
-Clorox,CLX,Tue before market,+2,2021-08-02,2021-08-03,PREMARKET
-Take-Two,TTWO,Mon after market,-3,2021-08-02,2021-08-02,AFH
-Under Armour,UAA,Tue before market,-16,2021-08-02,2021-08-03,PREMARKET
-Alibaba,BABA,Tue before market,-30,2021-08-02,2021-08-03,PREMARKET
-Lyft,LYFT,Tue after market,+68,2021-08-02,2021-08-03,AFH
-Toyota,TM,Wed before market,+47,2021-08-02,2021-08-04,PREMARKET
-Honda,HMC,Wed before market,+25,2021-08-02,2021-08-04,PREMARKET
-Avis,CAR,Tue after market,+21,2021-08-02,2021-08-03,AFH
-Denny's,DENN,Tue after market,+10,2021-08-02,2021-08-03,AFH
-Kraft Heinz,KHC,Wed before market,0,2021-08-02,2021-08-04,PREMARKET
-Match Group,MTCH,Tue after market,-4,2021-08-02,2021-08-03,AFH
-Marathon,MPC,Wed before market,-10,2021-08-02,2021-08-04,PREMARKET
-Hyatt,H,Tue after market,-17,2021-08-02,2021-08-03,AFH
-Activision,ATVI,Tue after market,-19,2021-08-02,2021-08-03,AFH
-CVS,CVS,Wed before market,-28,2021-08-02,2021-08-04,PREMARKET
-GM,GM,Wed before market,-28,2021-08-02,2021-08-04,PREMARKET
-New Relic,NEWR,Tue after market,-68,2021-08-02,2021-08-03,AFH
-Medifast,MED,Wed after market,+89,2021-08-02,2021-08-04,AFH
-Angie's List,ANGI,Wed after market,+45,2021-08-02,2021-08-04,AFH
-Booking Holdings,BKNG,Wed after market,+41,2021-08-02,2021-08-04,AFH
-Revolve,RVLV,Wed after market,+26,2021-08-02,2021-08-04,AFH
-Godaddy,GDDY,Wed after market,+15,2021-08-02,2021-08-04,AFH
-Hanes,HBI,Thu before market,+15,2021-08-02,2021-08-05,PREMARKET
-Uber,UBER,Wed after market,+9,2021-08-02,2021-08-04,AFH
-YETI,YETI,Thu before market,+9,2021-08-02,2021-08-05,PREMARKET
-Boot Barn,BOOT,Wed after market,+8,2021-08-02,2021-08-04,AFH
-Hostess,TWNK,Wed after market,+7,2021-08-02,2021-08-04,AFH
-Datadog,DDOG,Thu before market,+3,2021-08-02,2021-08-05,PREMARKET
-Kellogg,K,Thu before market,+3,2021-08-02,2021-08-05,PREMARKET
-Vonage,VG,Thu before market,+2,2021-08-02,2021-08-05,PREMARKET
-Choice Hotels,CHH,Thu before market,+1,2021-08-02,2021-08-05,PREMARKET
-Allstate,ALL,Wed after market,-4,2021-08-02,2021-08-04,AFH
-Western Union,WU,Wed after market,-5,2021-08-02,2021-08-04,AFH
-Roku,ROKU,Wed after market,-6,2021-08-02,2021-08-04,AFH
-Papa John's,PZZA,Thu before market,-8,2021-08-02,2021-08-05,PREMARKET
-Penn National,PENN,Thu before market,-12,2021-08-02,2021-08-05,PREMARKET
-Amerco,UHAL,Wed after market,-15,2021-08-02,2021-08-04,AFH
-Edgewell,EPC,Thu before market,-35,2021-08-02,2021-08-05,PREMARKET
-Jack in the Box,JACK,Wed after market,-36,2021-08-02,2021-08-04,AFH
-Fiverr,FVRR,Thu before market,-42,2021-08-02,2021-08-05,PREMARKET
-Elf Beauty,ELF,Wed after market,-49,2021-08-02,2021-08-04,AFH
-Arlo Technologies,ARLO,Wed after market,-53,2021-08-02,2021-08-04,AFH
-Wayfair,W,Thu before market,-61,2021-08-02,2021-08-05,PREMARKET
-Etsy,ETSY,Wed after market,-72,2021-08-02,2021-08-04,AFH
-DraftKings,DKNG,Fri before market,+81,2021-08-02,2021-08-06,PREMARKET
-Carvana,CVNA,Thu after market,+42,2021-08-02,2021-08-05,AFH
-Turtle Beach,HEAR,Thu after market,+41,2021-08-02,2021-08-05,AFH
-Chuy's,CHUY,Thu after market,+34,2021-08-02,2021-08-05,AFH
-Redfin,RDFN,Thu after market,+34,2021-08-02,2021-08-05,AFH
-Expedia,EXPE,Thu after market,+29,2021-08-02,2021-08-05,AFH
-Tucows,TCX,Thu after market,+25,2021-08-02,2021-08-05,AFH
-Yelp,YELP,Thu after market,+22,2021-08-02,2021-08-05,AFH
-TripAdvisor,TRIP,Thu after market,+12,2021-08-02,2021-08-05,AFH
-Groupon,GRPN,Thu after market,+11,2021-08-02,2021-08-05,AFH
-Shake Shack,SHAK,Thu after market,+4,2021-08-02,2021-08-05,AFH
-GoPro,GPRO,Thu after market,-4,2021-08-02,2021-08-05,AFH
-B&G Foods,BGS,Thu after market,-7,2021-08-02,2021-08-05,AFH
-Canopy Growth,CGC,Fri before market,-12,2021-08-02,2021-08-06,PREMARKET
-Square,SQ,Thu after market,-12,2021-08-02,2021-08-05,AFH
-Dropbox,DBX,Thu after market,-15,2021-08-02,2021-08-05,AFH
-Monster,MNST,Thu after market,-18,2021-08-02,2021-08-05,AFH
-Ruth's Group,RUTH,Fri before market,-27,2021-08-02,2021-08-06,PREMARKET
-Zillow,Z,Thu after market,-35,2021-08-02,2021-08-05,AFH
-Sprouts,SFM,Thu after market,-35,2021-08-02,2021-08-05,AFH
-BellRing,BRBR,Thu after market,-58,2021-08-02,2021-08-05,AFH
-Trupanion,TRUP,Thu after market,-64,2021-08-02,2021-08-05,AFH
-Beyond Meat,BYND,Thu after market,-67,2021-08-02,2021-08-05,AFH
-XPEL,XPEL,Mon before market,-79,2021-08-02,2021-08-02,PREMARKET
-Chegg,CHGG,Mon after market,+91,,,AFH
-Ethan Allen,ETH,Mon after market,+61,,,AFH
-SmileDirectClub,SDC,Mon after market,+26,,,AFH
-Planet Fitness,PLNT,Mon after market,+5,,,AFH
-Callaway,ELY,Mon after market,0,,,AFH
-Nautilus,NLS,Mon after market,-36,,,AFH
-Purple,PRPL,Mon after market,-46,,,AFH
-The RealReal,REAL,Mon after market,-64,,,AFH
-The ONE Group,STKS,Tue after market,+43,,,AFH
-CuriosityStream,CURI,Tue after market,+27,,,AFH
-Canada Goose,GOOS,Wed before market,+17,,,PREMARKET
-Grocery Outlet,GO,Tue after market,+5,,,AFH
-fuboTV,FUBO,Tue after market,+3,,,AFH
-Weight Watchers,WW,Tue after market,+1,,,AFH
-Wendy's,WEN,Wed before market,-13,,,PREMARKET
-Kodak,KODK,Tue after market,-14,,,AFH
-Wix,WIX,Wed before market,-56,,,PREMARKET
-Opendoor,OPEN,Wed after market,+89,,,AFH
-Sonos,SONO,Wed after market,+4,,,AFH
-Celsius,CELH,Thu before market,-2,,,PREMARKET
-GoodRx,GDRX,Thu before market,-10,,,PREMARKET
-Vroom,VRM,Wed after market,-16,,,AFH
-eBay,EBAY,Wed after market,-44,,,AFH
-Airbnb,ABNB,Thu after market,+6,,,AFH
-DoorDash,DASH,Thu after market,-5,,,AFH
-Fiesta Group,FRGI,Thu after market,-12,,,AFH
-Walmart,WMT,Tue before market,-36,2021-08-16,2021-08-17,PREMARKET
-Home Depot,HD,Tue before market,-42,2021-08-16,2021-08-17,PREMARKET
-Roblox,RBLX,Mon after market,-69,2021-08-16,2021-08-16,AFH
-TJX,TJX,Wed before market,-1,2021-08-16,2021-08-18,PREMARKET
-Brinker,EAT,Wed before market,-10,2021-08-16,2021-08-18,PREMARKET
-Target,TGT,Wed before market,-16,2021-08-16,2021-08-18,PREMARKET
-Lowe's,LOW,Wed before market,-57,2021-08-16,2021-08-18,PREMARKET
-Estee Lauder,EL,Thu before market,+8,2021-08-16,2021-08-19,PREMARKET
-Kohl's,KSS,Thu before market,+7,2021-08-16,2021-08-19,PREMARKET
-Nvidia,NVDA,Wed after market,+5,2021-08-16,2021-08-18,AFH
-Macy's,M,Thu before market,-25,2021-08-16,2021-08-19,PREMARKET
-Coach,TPR,Thu before market,-67,2021-08-16,2021-08-19,PREMARKET
-Deere,DE,Fri before market,-2,2021-08-16,2021-08-20,PREMARKET
-Farfetch,FTCH,Thu after market,-7,2021-08-16,2021-08-19,AFH
-Ross Stores,ROST,Thu after market,-8,2021-08-16,2021-08-19,AFH
-Footlocker,FL,Fri before market,-42,2021-08-16,2021-08-20,PREMARKET
-Advance Auto,AAP,Tue before market,+41,2021-08-23,2021-08-24,PREMARKET
-Best Buy,BBY,Tue before market,-13,2021-08-23,2021-08-24,PREMARKET
-Urban Outfitters,URBN,Tue after market,+3,2021-08-23,2021-08-24,AFH
-Nordstrom,JWN,Tue after market,-11,2021-08-23,2021-08-24,AFH
-Shoe Carnival,SCVL,Wed before market,-15,2021-08-23,2021-08-25,PREMARKET
-Intuit,INTU,Tue after market,-26,2021-08-23,2021-08-24,AFH
-Express,EXPR,Wed before market,-27,2021-08-23,2021-08-25,PREMARKET
-Build-A-Bear,BBW,Wed before market,-54,2021-08-23,2021-08-25,PREMARKET
-Abercrombie,ANF,Thu before market,+44,2021-08-23,2021-08-26,PREMARKET
-Ulta,ULTA,Wed after market,+9,2021-08-23,2021-08-25,AFH
-Burlington,BURL,Thu before market,+1,2021-08-23,2021-08-26,PREMARKET
-Autodesk,ADSK,Wed after market,-8,2021-08-23,2021-08-25,AFH
-Dollar General,DG,Thu before market,-11,2021-08-23,2021-08-26,PREMARKET
-Williams-Sonoma,WSM,Wed after market,-15,2021-08-23,2021-08-25,AFH
-Salesforce,CRM,Wed after market,-24,2021-08-23,2021-08-25,AFH
-Smuckers,SJM,Thu before market,-25,2021-08-23,2021-08-26,PREMARKET
-Hain Celestial,HAIN,Thu before market,-53,2021-08-23,2021-08-26,PREMARKET
-Dollar Tree,DLTR,Thu before market,-58,2021-08-23,2021-08-26,PREMARKET
-Ollie's,OLLI,Thu after market,-9,2021-08-23,2021-08-26,AFH
-Gap,GPS,Thu after market,-17,2021-08-23,2021-08-26,AFH
-Big Lots,BIG,Fri before market,-49,2021-08-23,2021-08-27,PREMARKET
-Guess,GES,Thu after market,-50,2021-08-23,2021-08-26,AFH
-Peloton,PTON,Thu after market,-74,2021-08-23,2021-08-26,AFH
-DSW,DBI,Tue before market,-52,2021-08-30,2021-08-31,PREMARKET
-Zoom,ZM,Mon after market,-74,2021-08-30,2021-08-30,AFH
-Campbell Soup,CPB,Wed before market,-22,2021-08-30,2021-09-01,PREMARKET
-American Eagle,AEO,Thu before market,-21,2021-08-30,2021-09-02,PREMARKET
-Signet Jewelers,SIG,Thu before market,-30,2021-08-30,2021-09-02,PREMARKET
-G-III,GIII,Thu before market,-34,2021-08-30,2021-09-02,PREMARKET
-Five Below,FIVE,Wed after market,-46,2021-08-30,2021-09-01,AFH
-Lands End,LE,Thu before market,-54,2021-08-30,2021-09-02,PREMARKET
-Chewy,CHWY,Wed after market,-59,2021-08-30,2021-09-01,AFH
-Tilly's,TLYS,Thu after market,+32,2021-08-30,2021-09-02,AFH
-Oxford,OXM,Thu after market,-2,2021-08-30,2021-09-02,AFH
-HR Block,HRB,Tue after market,-32,2021-08-30,2021-08-31,AFH
